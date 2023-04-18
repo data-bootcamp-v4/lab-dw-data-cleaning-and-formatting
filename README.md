@@ -56,7 +56,7 @@ By the end of this lab, you will have gained the knowledge and skills to confide
 
 ## Getting Started
 
-Complete the challenges in the `src` directory. Follow the instructions and add your code and explanations as necessary.
+Complete the challenges in the `Jupyter Notebook` file. Follow the instructions and add your code and explanations as necessary.
 
 ## Submission
 
