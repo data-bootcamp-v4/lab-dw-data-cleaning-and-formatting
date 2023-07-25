@@ -9,15 +9,21 @@ def cleaning_dataframes(df):
         df["customer lifetime value"] = df["customer lifetime value"].str.rstrip("%")#Elitminates all the strings
         df["customer lifetime value"] = df["customer lifetime value"].astype(float)
         return df
+    def spell_checks(df):
+        df["gender"].replace(r'\bM\w*\b',regex=True,value="M",inplace=True)
+        df["gender"].replace(r"(?i)\bF\w*\b",regex=True,value="F",inplace=True)
+        return df
     def cleaning_nulls(df):
         df.dropna(axis=0,how="all",inplace=True) #Cleaning Null Values in the Dataframe
         df.fillna(axis=0,value="N/A",inplace=True)
         return df
     def checking_dup(df):
         df["customer"].duplicated().sum()
+        df.drop_duplicates(subset="costumer",keep="first",inplace=True)
         return df
     
     df.columns = [low_clean_columns(i) for i in df.columns]
+    spell_checks(df)
     df=cleaning_nulls(df)
     df=checking_dup(df)
     df=types_setting(df)
