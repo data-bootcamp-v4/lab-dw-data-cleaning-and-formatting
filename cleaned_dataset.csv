@@ -1,0 +1,6 @@
+customer,st,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
+RB50392,Washington,F,Master,7971.088360000002,0.0,1000.0,0,Personal Auto,Four-Door Car,2.704934
+QZ44356,Arizona,F,Bachelor,6979.5359,0.0,94.0,0,Personal Auto,Four-Door Car,1131.464935
+AI49188,Nevada,F,Bachelor,12887.4317,48767.0,108.0,0,Personal Auto,Two-Door Car,566.472247
+WW63253,California,M,Bachelor,7645.861800000001,0.0,106.0,0,Corporate Auto,SUV,529.881344
+GA49547,Washington,M,High School or Below,5363.0765,36357.0,68.0,0,Personal Auto,Four-Door Car,17.269323
