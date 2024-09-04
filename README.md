@@ -73,13 +73,13 @@ git push origin master
 
 ## FAQs
 <details>
-  <summary>I am stuck in the exercise and don't know how to solve the problem or where to start.</summary>
+  <summary>I am stuck in the exercise and don"t know how to solve the problem or where to start.</summary>
   <br>
 
-  If you are stuck in your code and don't know how to solve the problem or where to start, you should take a step back and try to form a clear question about the specific issue you are facing. This will help you narrow down the problem and come up with potential solutions.
+  If you are stuck in your code and don"t know how to solve the problem or where to start, you should take a step back and try to form a clear question about the specific issue you are facing. This will help you narrow down the problem and come up with potential solutions.
 
 
-  For example, is it a concept that you don't understand, or are you receiving an error message that you don't know how to fix? It is usually helpful to try to state the problem as clearly as possible, including any error messages you are receiving. This can help you communicate the issue to others and potentially get help from classmates or online resources. 
+  For example, is it a concept that you don"t understand, or are you receiving an error message that you don"t know how to fix? It is usually helpful to try to state the problem as clearly as possible, including any error messages you are receiving. This can help you communicate the issue to others and potentially get help from classmates or online resources. 
 
 
   Once you have a clear understanding of the problem, you will be able to start working toward the solution.
