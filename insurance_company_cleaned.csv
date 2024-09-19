@@ -1,0 +1,1072 @@
+customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
+RB50392,California,F,Master,0,0,1000,0,Personal Auto,Luxury,2
+QZ44356,Unknow,Unknow,Bachelor,0,0,94,0,Personal Auto,Unknow,1131
+AI49188,Unknow,Unknow,Bachelor,0,48767,108,0,Personal Auto,Unknow,566
+WW63253,Unknow,Unknow,Bachelor,0,0,106,0,Corporate Auto,Unknow,529
+GA49547,Unknow,Unknow,High School or Below,0,36357,68,0,Personal Auto,Unknow,17
+OC83172,Unknow,Unknow,Bachelor,0,62902,69,0,Personal Auto,Unknow,159
+XZ87318,Unknow,Unknow,College,0,55350,67,0,Corporate Auto,Unknow,321
+CF85061,Unknow,Unknow,Master,0,0,101,0,Corporate Auto,Unknow,363
+DY87989,Unknow,Unknow,Bachelor,0,14072,71,0,Corporate Auto,Unknow,511
+BQ94931,Unknow,Unknow,College,0,28812,93,0,Special Auto,Unknow,425
+SX51350,Unknow,Unknow,College,0,0,67,0,Personal Auto,Unknow,482
+VQ65197,Unknow,Unknow,College,0,0,110,0,Personal Auto,Unknow,528
+DP39365,Unknow,Unknow,Master,0,77026,110,2,Corporate Auto,Unknow,472
+SJ95423,Unknow,Unknow,High School or Below,0,99845,110,1,Corporate Auto,Unknow,528
+IL66569,Unknow,Unknow,College,0,83689,70,2,Corporate Auto,Unknow,307
+BW63560,Unknow,Unknow,Bachelor,0,24599,64,1,Corporate Auto,Unknow,42
+FV94802,Unknow,Unknow,High School or Below,0,25049,67,0,Personal Auto,Unknow,454
+OE15005,California,Unknow,College,0,28855,101,0,Personal Auto,Unknow,647
+WC83389,Unknow,Unknow,College,0,51148,72,0,Personal Auto,Unknow,308
+FL50705,Unknow,Unknow,High School or Below,0,66140,101,0,Corporate Auto,Unknow,484
+ZK25313,Unknow,Unknow,High School or Below,0,57749,74,0,Personal Auto,Unknow,355
+QK46697,Unknow,Unknow,Bachelor,0,61040,79,1,Personal Auto,Unknow,20
+YH23384,Unknow,Unknow,Bachelor,0,14072,71,0,Personal Auto,Unknow,511
+TZ98966,Unknow,Unknow,Bachelor,0,0,73,3,Corporate Auto,Unknow,554
+HM55802,Unknow,Unknow,Bachelor,0,17870,61,0,Corporate Auto,Unknow,439
+FS42516,Unknow,Unknow,College,0,97541,72,0,Personal Auto,Unknow,389
+US89481,Unknow,Unknow,Bachelor,0,0,111,0,Personal Auto,Unknow,799
+HS14476,Unknow,Unknow,College,0,29723,80,0,Personal Auto,Unknow,20
+GE62437,Arizona,Unknow,College,0,86584,111,2,Personal Auto,Unknow,532
+EJ77678,Unknow,Unknow,Master,0,75690,80,1,Personal Auto,Unknow,384
+SV85652,Unknow,Unknow,College,0,23158,63,1,Personal Auto,Unknow,322
+UL64533,Unknow,Unknow,High School or Below,0,65999,237,0,Corporate Auto,Luxury,615
+PF41800,Unknow,Unknow,Bachelor,0,0,65,0,Personal Auto,Unknow,308
+HD95276,Unknow,Unknow,College,0,0,130,0,Personal Auto,Unknow,23
+SK67821,Unknow,Unknow,Bachelor,0,37260,62,0,Corporate Auto,Unknow,15
+YV55495,Unknow,Unknow,High School or Below,0,68987,71,0,Personal Auto,Unknow,204
+KY38074,Unknow,Unknow,Bachelor,0,42305,117,0,Personal Auto,Unknow,561
+DM79012,Unknow,Unknow,Master,0,65706,91,0,Personal Auto,Unknow,436
+CM61827,Unknow,Unknow,Bachelor,0,0,90,0,Personal Auto,Unknow,648
+WC35801,Unknow,Unknow,High School or Below,0,53243,66,2,Personal Auto,Unknow,157
+QG25316,Unknow,Unknow,High School or Below,0,0,70,1,Corporate Auto,Unknow,484
+MB98372,Unknow,Unknow,College,0,50071,71,0,Corporate Auto,Unknow,18
+IL19217,Unknow,Unknow,Bachelor,0,60021,99,0,Personal Auto,Unknow,882
+SR38658,Unknow,Unknow,High School or Below,0,43244,103,0,Personal Auto,Luxury,494
+YD87931,Unknow,Unknow,Doctor,0,46896,35354,1,Personal Auto,Unknow,31
+HG65722,Unknow,Unknow,Doctor,0,10105,172,3,Personal Auto,Unknow,0
+BU27331,Unknow,Unknow,Bachelor,0,0,73,3,Personal Auto,Unknow,579
+XM45289,Unknow,Unknow,High School or Below,0,23218,71,0,Personal Auto,Unknow,447
+KP34198,Unknow,Unknow,Bachelor,0,0,92,0,Corporate Auto,Unknow,529
+SH90947,Unknow,Unknow,High School or Below,0,0,62,0,Personal Auto,Unknow,313
+WE95729,Unknow,Unknow,College,0,24804,104,0,Personal Auto,Unknow,593
+PY51963,Unknow,Unknow,Bachelor,0,33190,106,0,Corporate Auto,Unknow,508
+RB69909,Unknow,Unknow,High School or Below,0,36014,69,3,Special Auto,Unknow,173
+NW21079,Unknow,Unknow,Master,0,67163,61,2,Personal Auto,Unknow,33
+FR46645,Unknow,Unknow,Bachelor,0,16701,113,0,Personal Auto,Unknow,831
+SY17488,Unknow,Unknow,College,0,46623,91,0,Corporate Auto,Unknow,436
+AP67935,Unknow,Unknow,College,0,64749,64,0,Special Auto,Unknow,302
+FS37417,Unknow,Unknow,High School or Below,0,0,101,0,Personal Auto,Unknow,484
+ML29312,Unknow,Unknow,High School or Below,0,16969,124,2,Personal Auto,Unknow,704
+UB61619,Unknow,Unknow,Master,0,11621,108,0,Personal Auto,Unknow,518
+CD86811,Unknow,Unknow,Bachelor,0,17622,65,1,Personal Auto,Unknow,312
+RU83859,Unknow,Unknow,Bachelor,0,11489,105,0,Personal Auto,Unknow,504
+FG63582,Unknow,Unknow,Bachelor,0,0,94,0,Personal Auto,Unknow,863
+NN71951,Unknow,Unknow,High School or Below,0,66525,100,0,Personal Auto,Unknow,104
+WB37082,Unknow,Unknow,Bachelor,0,0,63,0,Personal Auto,Unknow,676
+SM52139,Washington,Unknow,College,0,33663,73,0,Personal Auto,Unknow,350
+FL82372,Unknow,Unknow,College,0,22547,112,0,Corporate Auto,Unknow,537
+DP45816,Arizona,Unknow,High School or Below,0,61486,97,0,Personal Auto,Unknow,465
+GW33762,Unknow,Unknow,Bachelor,0,0,95,0,Personal Auto,Unknow,456
+RZ33670,Unknow,Unknow,College,0,29879,102,0,Personal Auto,Unknow,500
+PY70169,Unknow,Unknow,High School or Below,0,93011,113,0,Personal Auto,Unknow,281
+MO91628,Unknow,Unknow,Master,0,65186,65,0,Personal Auto,Unknow,5
+HW87852,Unknow,Unknow,Master,0,26840,64,2,Personal Auto,Unknow,307
+HB20453,Unknow,Unknow,Bachelor,0,0,104,1,Personal Auto,Luxury,982
+BN87372,Unknow,Unknow,Bachelor,0,75644,65,3,Personal Auto,Unknow,467
+YX23800,Unknow,Unknow,Bachelor,0,38984,73,0,Personal Auto,Unknow,350
+DZ87709,Unknow,Unknow,High School or Below,0,71811,71,0,Personal Auto,Unknow,29
+XW13033,Unknow,Unknow,College,0,20961,67,0,Personal Auto,Unknow,321
+SP81997,Unknow,Unknow,Master,0,41275,96,0,Personal Auto,Unknow,41
+OM82309,Unknow,Unknow,Bachelor,0,61321,186,1,Personal Auto,Luxury,427
+ZU35962,Unknow,Unknow,College,0,0,77,0,Personal Auto,Unknow,25
+VH85817,Unknow,Unknow,High School or Below,0,51066,74,0,Personal Auto,Unknow,787
+DT85712,Unknow,Unknow,Doctor,0,34378,102,0,Personal Auto,Unknow,489
+YJ88573,Unknow,Unknow,Master,0,43072,63,0,Personal Auto,Unknow,302
+SQ19467,Unknow,Unknow,College,0,25222,90,0,Personal Auto,Unknow,475
+YB66933,Unknow,Unknow,Bachelor,0,77552,68,1,Corporate Auto,Unknow,45
+ET79815,Unknow,Unknow,College,0,23091,96,5,Personal Auto,Unknow,460
+QC35222,Unknow,Unknow,Bachelor,0,48269,69,3,Corporate Auto,Unknow,282
+CJ15590,Unknow,Unknow,Bachelor,0,32720,67,0,Personal Auto,Unknow,321
+OI48267,Unknow,Unknow,College,0,20396,76,1,Personal Auto,Unknow,364
+JY67916,Unknow,Unknow,College,0,21513,119,1,Personal Auto,Unknow,679
+OW15518,Unknow,Unknow,College,0,0,87,1,Personal Auto,Unknow,46
+CZ33664,Unknow,Unknow,Bachelor,0,80744,63,0,Corporate Auto,Unknow,11
+WK30175,Unknow,Unknow,Bachelor,0,52822,67,0,Corporate Auto,Unknow,350
+ON44465,Unknow,Unknow,High School or Below,0,0,77,1,Personal Auto,Unknow,863
+TV87155,Unknow,Unknow,Bachelor,0,69738,74,1,Personal Auto,Unknow,492
+KH48895,Arizona,Unknow,Master,0,17780,109,0,Personal Auto,Unknow,132
+NZ30757,Unknow,Unknow,Bachelor,0,18107,62,0,Personal Auto,Unknow,297
+RI22468,Arizona,Unknow,Bachelor,0,57740,74,3,Personal Auto,Unknow,269
+FZ30935,Unknow,Unknow,College,0,32627,76,0,Personal Auto,Unknow,380
+UG93476,Unknow,Unknow,College,0,0,107,0,Personal Auto,Unknow,513
+AB96670,Unknow,Unknow,College,0,0,70,0,Personal Auto,Unknow,425
+XK64261,Unknow,Unknow,Bachelor,0,65795,62,1,Corporate Auto,Unknow,49
+EV68375,Unknow,Unknow,College,0,60475,107,0,Personal Auto,Unknow,513
+UN51653,Unknow,Unknow,High School or Below,0,0,130,0,Personal Auto,Unknow,936
+TO96662,Unknow,Unknow,Bachelor,0,41837,88,0,Personal Auto,Unknow,142
+MR52087,Unknow,Unknow,Bachelor,0,32303,65,0,Personal Auto,Unknow,45
+DE75225,Unknow,Unknow,High School or Below,0,0,117,1,Personal Auto,Unknow,561
+EP80820,Unknow,Unknow,Bachelor,0,40531,74,0,Personal Auto,Unknow,30
+GU99037,Unknow,Unknow,College,0,79898,62,1,Corporate Auto,Unknow,271
+WI57118,Unknow,Unknow,College,0,56398,85,0,Personal Auto,Unknow,408
+GP39118,Unknow,Unknow,High School or Below,0,71600,63,0,Personal Auto,Unknow,46
+MQ14219,Arizona,Unknow,College,0,27804,109,0,Personal Auto,Unknow,784
+KN20603,Unknow,Unknow,Bachelor,0,45506,66,2,Personal Auto,Unknow,316
+SG20925,Unknow,Unknow,Master,0,99428,6464,1,Personal Auto,Unknow,48
+JI70886,Unknow,Unknow,High School or Below,0,0,102,1,Corporate Auto,Unknow,489
+VF72557,Unknow,Unknow,High School or Below,0,20993,133,0,Personal Auto,Unknow,638
+OX28638,Arizona,Unknow,High School or Below,0,37839,86,0,Personal Auto,Unknow,465
+SK55033,Unknow,Unknow,Bachelor,0,92711,62,0,Personal Auto,Unknow,368
+OO88645,Unknow,Unknow,College,0,74665,78,2,Corporate Auto,Unknow,236
+FM14335,Unknow,Unknow,College,0,61108,89,0,Personal Auto,Unknow,49
+CW82151,Unknow,Unknow,Bachelor,0,46833,112,0,Personal Auto,Luxury,64
+DY22043,Unknow,Unknow,High School or Below,0,88768,68,0,Personal Auto,Unknow,326
+SH36774,Unknow,Unknow,High School or Below,0,28262,192,0,Personal Auto,Luxury,921
+EM43724,Unknow,Unknow,Bachelor,0,33555,63,0,Personal Auto,Unknow,101
+FH85960,Unknow,Unknow,College,0,42780,113,1,Personal Auto,Unknow,542
+XA55993,Unknow,Unknow,Master,0,58850,78,0,Personal Auto,Unknow,143
+GO36627,Arizona,Unknow,College,0,21880,97,0,Special Auto,Unknow,424
+QH48047,Unknow,Unknow,College,0,25251,66,0,Personal Auto,Unknow,316
+HS28694,Unknow,Unknow,High School or Below,0,25317,71,0,Personal Auto,Unknow,50
+UH65059,Arizona,Unknow,High School or Below,0,24188,109,0,Personal Auto,Luxury,523
+FV21968,Unknow,Unknow,Bachelor,0,41611,74,0,Special Auto,Unknow,113
+QA87025,Unknow,Unknow,Bachelor,0,28406,72,1,Personal Auto,Unknow,192
+TQ13499,Arizona,Unknow,College,0,69833,118,0,Personal Auto,Unknow,828
+BU44523,Arizona,Unknow,High School or Below,0,0,74,0,Corporate Auto,Unknow,532
+MS41162,Arizona,Unknow,High School or Below,0,0,117,0,Personal Auto,Unknow,975
+PU25891,Unknow,Unknow,High School or Below,0,80536,119,0,Special Auto,Luxury,53
+LH92841,Unknow,Unknow,Bachelor,0,88891,89,0,Personal Auto,Unknow,50
+SX26335,Unknow,Unknow,College,0,97732,79,0,Personal Auto,Unknow,289
+AZ95587,Arizona,Unknow,Bachelor,0,61222,89,0,Special Auto,Unknow,392
+DS81757,Unknow,Unknow,College,0,0,74,0,Personal Auto,Unknow,721
+OJ94107,Arizona,Unknow,Master,0,50335,140,0,Personal Auto,Unknow,456
+LP84436,Unknow,Unknow,High School or Below,0,0,127,0,Personal Auto,Luxury,1087
+FF22360,Unknow,Unknow,Doctor,0,82210,68,4,Personal Auto,Unknow,51
+LM19287,Unknow,Unknow,High School or Below,0,0,96,0,Personal Auto,Unknow,460
+ZU18643,Unknow,Unknow,Bachelor,0,64495,92,0,Corporate Auto,Unknow,251
+AZ82578,Unknow,Unknow,College,0,0,72,0,Corporate Auto,Unknow,345
+XC67861,Unknow,Unknow,Bachelor,0,28859,67,3,Corporate Auto,Unknow,321
+YC43143,Unknow,Unknow,High School or Below,0,77330,99,0,Personal Auto,Unknow,99
+EK59571,Unknow,Unknow,College,0,0,105,0,Corporate Auto,Unknow,504
+PA38372,Unknow,Unknow,High School or Below,0,33060,117,0,Personal Auto,Unknow,56
+RO18530,Unknow,Unknow,Master,0,42557,65,0,Personal Auto,Unknow,57
+PD27940,Unknow,Unknow,High School or Below,0,26372,126,0,Personal Auto,Unknow,604
+BS77946,Unknow,Unknow,Bachelor,0,17514,127,0,Personal Auto,Unknow,8
+YM50253,Unknow,F,Bachelor,0,89270,74,0,Personal Auto,Unknow,316
+NR15332,Unknow,Unknow,High School or Below,0,29757,65,0,Personal Auto,Unknow,312
+RC62865,Unknow,Unknow,College,0,51814,92,0,Personal Auto,Unknow,56
+CC15295,Unknow,Unknow,Bachelor,0,24028,82,0,Personal Auto,Unknow,393
+KA61892,Unknow,Unknow,College,0,28142,105,0,Personal Auto,Luxury,701
+OS94884,Unknow,Unknow,Bachelor,0,52705,64,1,Personal Auto,Unknow,128
+ND87334,Unknow,Unknow,High School or Below,0,0,63,0,Corporate Auto,Unknow,679
+OY51402,Unknow,Unknow,High School or Below,0,54040,103,0,Personal Auto,Unknow,59
+YL74911,Unknow,Unknow,College,0,0,118,0,Personal Auto,Unknow,566
+GK92563,Unknow,Unknow,Doctor,0,22492,85,0,Personal Auto,Unknow,61
+HL53154,Unknow,Unknow,Bachelor,0,0,77,2,Personal Auto,Unknow,554
+RI78966,Unknow,Unknow,Master,0,21876,68,0,Personal Auto,Unknow,465
+IC13702,Unknow,Unknow,Bachelor,0,0,69,1,Personal Auto,Unknow,496
+BE10809,Unknow,Unknow,High School or Below,0,0,61,1,Personal Auto,Unknow,292
+HT87217,Unknow,Unknow,High School or Below,0,70699,82,0,Personal Auto,Unknow,256
+TH95618,Unknow,Unknow,High School or Below,0,0,74,1,Personal Auto,Unknow,355
+TS19868,Unknow,Unknow,College,0,27501,63,0,Personal Auto,Unknow,542
+LP45550,Unknow,Unknow,Doctor,0,15897,101,0,Personal Auto,Unknow,303
+QR87004,Unknow,Unknow,College,0,25141,73,1,Personal Auto,Unknow,25
+OE75747,Unknow,Unknow,College,0,0,61,3,Personal Auto,Unknow,292
+DX91392,Unknow,Unknow,High School or Below,0,51066,74,0,Personal Auto,Unknow,787
+AB72731,Unknow,Unknow,Bachelor,0,28358,117,0,Personal Auto,Luxury,84
+GX84338,Unknow,Unknow,Doctor,0,62530,95,0,Personal Auto,Unknow,61
+IS12901,Unknow,Unknow,Bachelor,0,90972,74,0,Personal Auto,Unknow,232
+BN90616,Unknow,Unknow,Bachelor,0,63110,72,0,Personal Auto,Unknow,68
+HH90090,Unknow,Unknow,Bachelor,0,29549,104,0,Personal Auto,Luxury,710
+IU25463,Unknow,Unknow,Bachelor,0,0,115,1,Personal Auto,Unknow,552
+KC11055,Unknow,Unknow,Bachelor,0,39411,217,2,Personal Auto,Luxury,1122
+PD33979,Unknow,Unknow,High School or Below,0,21709,62,0,Personal Auto,Unknow,408
+NK71023,Unknow,Unknow,Bachelor,0,67890,85,0,Personal Auto,Unknow,408
+AB13432,Unknow,Unknow,Bachelor,0,0,110,0,Personal Auto,Unknow,792
+OZ97704,Unknow,Unknow,High School or Below,0,84311,111,4,Personal Auto,Unknow,532
+UF46533,Unknow,Unknow,College,0,99316,114,0,Corporate Auto,Unknow,754
+XP47431,Unknow,Unknow,Bachelor,0,54507,138,0,Personal Auto,Unknow,702
+GK73582,Unknow,Unknow,Bachelor,0,64586,76,0,Personal Auto,Unknow,206
+RV98763,Unknow,Unknow,College,0,61709,82,2,Personal Auto,Unknow,275
+II62831,Unknow,Unknow,Master,0,94656,111,1,Special Auto,Unknow,459
+XK33449,Unknow,Unknow,High School or Below,0,0,69,0,Special Auto,Unknow,496
+TR85083,Unknow,Unknow,Bachelor,0,61085,70,1,Personal Auto,Unknow,336
+EO95328,Unknow,Unknow,Bachelor,0,89284,67,3,Personal Auto,Unknow,321
+EN21086,Unknow,Unknow,High School or Below,0,0,63,0,Personal Auto,Unknow,302
+YL83902,Washington,Unknow,Bachelor,0,31686,81,0,Personal Auto,Unknow,430
+AZ62651,Unknow,Unknow,High School or Below,0,56855,255,0,Corporate Auto,Luxury,1836
+ZW25874,Unknow,Unknow,Bachelor,0,53703,67,2,Special Auto,Unknow,67
+EH41854,Washington,Unknow,High School or Below,0,0,96,1,Personal Auto,Unknow,844
+MW70227,Unknow,Unknow,College,0,20396,76,1,Personal Auto,Unknow,364
+SL22297,Unknow,Unknow,Master,0,27679,150,0,Personal Auto,Unknow,722
+RV14138,Unknow,Unknow,Bachelor,0,23904,123,3,Personal Auto,Unknow,590
+UO62808,Unknow,Unknow,High School or Below,0,65351,69,0,Corporate Auto,Unknow,481
+ZX64745,Unknow,Unknow,College,0,0,113,0,Personal Auto,Unknow,1124
+FL34139,Unknow,Unknow,High School or Below,0,0,63,3,Personal Auto,Unknow,669
+TS11219,Unknow,Unknow,College,0,0,116,0,Personal Auto,Unknow,1284
+XX12304,Unknow,Unknow,College,0,64459,72,0,Personal Auto,Unknow,240
+SD64087,Unknow,Unknow,College,0,32961,190,0,Corporate Auto,Unknow,912
+OY38576,Unknow,Unknow,High School or Below,0,71416,116,0,Corporate Auto,Unknow,556
+BG76355,Washington,Unknow,Bachelor,0,68964,78,0,Personal Auto,Unknow,115
+IP66913,California,Unknow,High School or Below,0,78108,98,0,Personal Auto,Unknow,470
+LE95702,California,Unknow,College,0,10621,67,0,Special Auto,Unknow,321
+KX54357,Washington,Unknow,College,0,84910,95,0,Corporate Auto,Unknow,383
+EZ78112,California,F,High School or Below,0,77493,70,0,Special Auto,Unknow,307
+XN16891,Unknow,Unknow,College,0,81097,74,0,Personal Auto,Unknow,355
+XK31350,Unknow,F,College,0,96610,85,0,Corporate Auto,Unknow,520
+CC30924,Unknow,Unknow,College,0,30110,159,0,Corporate Auto,Luxury,466
+IT78748,Unknow,F,High School or Below,0,22081,84,0,Special Auto,Unknow,451
+KY33386,Washington,F,High School or Below,0,0,112,0,Personal Auto,Luxury,537
+CO44221,California,Unknow,College,0,98473,72,0,Personal Auto,Unknow,345
+LK60013,Unknow,F,Bachelor,0,97431,74,0,Personal Auto,Unknow,355
+DE21533,California,Unknow,Bachelor,0,93870,69,0,Personal Auto,Unknow,331
+YS94121,Unknow,Unknow,High School or Below,0,50366,72,0,Personal Auto,Unknow,428
+UK68427,Washington,Unknow,High School or Below,0,34498,83,0,Personal Auto,Unknow,398
+TE49565,Unknow,F,College,0,16552,103,0,Personal Auto,Unknow,494
+RA88421,Unknow,F,College,0,26787,77,0,Personal Auto,Unknow,369
+KQ51983,Unknow,Unknow,College,0,0,74,0,Personal Auto,Unknow,831
+CD88896,Unknow,F,High School or Below,0,43860,65,0,Corporate Auto,Unknow,156
+YV22553,Unknow,Unknow,High School or Below,0,21474,114,2,Corporate Auto,Unknow,373
+WU14435,California,Unknow,Bachelor,0,18174,66,0,Corporate Auto,Unknow,395
+XV84099,Unknow,F,Bachelor,0,0,73,0,Corporate Auto,Unknow,350
+RI24911,Unknow,M,College,0,60920,64,0,Personal Auto,Unknow,231
+KO26461,Unknow,M,High School or Below,0,41520,90,0,Personal Auto,Unknow,289
+HI14283,Unknow,F,Bachelor,0,0,152,0,Personal Auto,Unknow,729
+PT50227,Unknow,M,High School or Below,0,0,68,0,Personal Auto,Unknow,326
+BH36570,California,M,Bachelor,0,72208,73,0,Personal Auto,Unknow,350
+TX17484,California,F,Bachelor,0,53863,63,0,Personal Auto,Unknow,105
+CT41158,Washington,M,College,0,66446,136,0,Corporate Auto,Unknow,639
+AO87348,Washington,M,College,0,0,61,0,Personal Auto,Unknow,292
+DE55857,Washington,F,Bachelor,0,64997,63,1,Personal Auto,Unknow,383
+LF66923,Unknow,F,High School or Below,0,64460,66,0,Corporate Auto,Unknow,316
+CN24514,Unknow,F,College,0,46618,67,0,Personal Auto,Unknow,99
+UW32074,Unknow,F,College,0,0,64,0,Corporate Auto,Unknow,307
+HP36979,California,M,College,0,49988,84,5,Personal Auto,Unknow,566
+PP40919,California,F,College,0,0,91,5,Personal Auto,Unknow,436
+RO73268,California,Unknow,Bachelor,0,16269,86,0,Corporate Auto,Unknow,412
+HO61691,Unknow,Unknow,Bachelor,0,72006,64,0,Personal Auto,Unknow,307
+BS13062,Unknow,Unknow,High School or Below,0,0,81,2,Personal Auto,Unknow,388
+FO35655,Unknow,Unknow,Bachelor,0,0,245,0,Corporate Auto,Luxury,2345
+HR10526,California,Unknow,Master,0,44320,67,0,Personal Auto,Unknow,321
+IA63417,Unknow,Unknow,High School or Below,0,19782,108,0,Personal Auto,Unknow,773
+BH35016,Unknow,Unknow,Bachelor,0,63933,70,0,Personal Auto,Unknow,424
+PK52952,Unknow,Unknow,Doctor,0,28224,109,0,Personal Auto,Unknow,523
+OD76309,Washington,Unknow,College,0,21073,106,1,Personal Auto,Unknow,508
+IL28481,Unknow,Unknow,Bachelor,0,63243,77,0,Personal Auto,Unknow,364
+GY55092,Unknow,Unknow,High School or Below,0,20993,133,0,Personal Auto,Unknow,638
+UF33451,Unknow,Unknow,Bachelor,0,94827,135,0,Personal Auto,Unknow,354
+CF15558,California,Unknow,Master,0,39161,63,1,Personal Auto,Unknow,283
+JM62924,Washington,Unknow,Bachelor,0,37534,84,2,Personal Auto,Unknow,403
+EM66435,Unknow,Unknow,Bachelor,0,80210,65,0,Corporate Auto,Unknow,20
+QX45933,California,Unknow,Bachelor,0,0,62,0,Personal Auto,Unknow,385
+JI71369,California,Unknow,College,0,30110,64,0,Personal Auto,Unknow,140
+JU93290,Unknow,Unknow,College,0,21708,68,0,Personal Auto,Unknow,326
+GU66096,Unknow,Unknow,High School or Below,0,94731,67,0,Personal Auto,Unknow,321
+UC33108,California,Unknow,Bachelor,0,32375,83,0,Personal Auto,Unknow,398
+LW93867,Unknow,Unknow,College,0,16531,63,0,Corporate Auto,Unknow,102
+OU78470,Unknow,Unknow,Master,0,32006,94,0,Corporate Auto,Unknow,56
+XW90265,Unknow,Unknow,Bachelor,0,81676,72,0,Personal Auto,Unknow,463
+HS67749,California,Unknow,College,0,71038,86,0,Corporate Auto,Unknow,205
+VZ51506,Unknow,Unknow,High School or Below,0,0,103,0,Corporate Auto,Luxury,741
+UI64281,Unknow,Unknow,Master,0,20832,65,0,Personal Auto,Unknow,56
+AE98193,Washington,Unknow,High School or Below,0,0,113,0,Personal Auto,Unknow,813
+AZ74055,Unknow,Unknow,High School or Below,0,52405,103,0,Personal Auto,Unknow,494
+XS76911,Unknow,Unknow,High School or Below,0,0,133,0,Personal Auto,Luxury,795
+AY40674,Washington,Unknow,Bachelor,0,26583,1005,4,Personal Auto,Unknow,614
+NA12740,Unknow,Unknow,Master,0,25486,65,0,Special Auto,Unknow,72
+UA84837,Unknow,Unknow,College,0,24065,111,0,Corporate Auto,Unknow,532
+DJ51510,Unknow,Unknow,High School or Below,0,70435,116,0,Personal Auto,Unknow,67
+VM58985,California,Unknow,College,0,0,76,2,Personal Auto,Unknow,402
+OH60605,Unknow,Unknow,High School or Below,0,39679,92,0,Personal Auto,Unknow,641
+UO98052,Unknow,Unknow,College,0,0,89,0,Personal Auto,Unknow,342
+NC53424,California,Unknow,Bachelor,0,0,69,4,Personal Auto,Unknow,331
+LQ13873,Unknow,Unknow,High School or Below,0,53565,71,1,Personal Auto,Unknow,340
+LA97014,Washington,Unknow,Bachelor,0,37574,66,1,Personal Auto,Unknow,412
+NB79936,Washington,Unknow,Bachelor,0,48259,108,0,Personal Auto,Unknow,73
+NT89061,Unknow,Unknow,High School or Below,0,78532,78,0,Personal Auto,Unknow,374
+AF10970,Unknow,Unknow,Bachelor,0,96163,73,0,Corporate Auto,Unknow,350
+ZG48513,California,Unknow,Bachelor,0,0,72,0,Personal Auto,Unknow,345
+JQ59145,California,M,High School or Below,0,0,114,1,Personal Auto,Luxury,722
+FE84989,Washington,M,College,0,72672,63,0,Personal Auto,Unknow,259
+JT52858,Unknow,Unknow,Bachelor,0,99002,112,1,Personal Auto,Unknow,537
+MC62068,Unknow,M,High School or Below,0,79494,91,0,Personal Auto,Unknow,396
+EU27538,Unknow,M,Master,0,35704,225,0,Personal Auto,Luxury,358
+RH42306,Unknow,Unknow,Bachelor,0,0,71,0,Corporate Auto,Unknow,653
+US23612,Unknow,Unknow,High School or Below,0,26049,118,0,Personal Auto,Unknow,121
+WV76014,Unknow,M,Doctor,0,70125,64,0,Special Auto,Unknow,92
+RK96223,Unknow,M,College,0,52369,110,1,Personal Auto,Unknow,528
+MF82000,Washington,F,Bachelor,0,0,66,2,Special Auto,Unknow,159
+FM46980,Unknow,M,College,0,41770,72,0,Personal Auto,Unknow,476
+SY56792,Unknow,M,High School or Below,0,0,101,0,Corporate Auto,Unknow,727
+RF61565,Unknow,Unknow,College,0,31911,67,0,Personal Auto,Unknow,321
+IM94808,Unknow,Unknow,Bachelor,0,70051,68,0,Corporate Auto,Unknow,42
+VI14730,Unknow,Unknow,High School or Below,0,19683,117,1,Personal Auto,Luxury,561
+YR34119,Washington,Unknow,College,0,30916,112,0,Personal Auto,Unknow,200
+RR77985,Unknow,Unknow,Bachelor,0,0,80,0,Personal Auto,Unknow,676
+QD28391,Unknow,Unknow,College,0,84302,62,0,Personal Auto,Unknow,76
+WV17090,Unknow,Unknow,Bachelor,0,0,116,0,Corporate Auto,Unknow,830
+TM23514,Unknow,Unknow,College,0,60145,132,0,Personal Auto,Unknow,580
+MQ68407,Unknow,Unknow,Bachelor,0,63774,111,0,Personal Auto,Unknow,60
+GJ59592,Unknow,Unknow,Bachelor,0,25134,67,0,Corporate Auto,Unknow,321
+FY56083,Unknow,Unknow,Bachelor,0,37057,61,1,Personal Auto,Unknow,47
+UA94723,Unknow,Unknow,High School or Below,0,58577,110,0,Personal Auto,Unknow,303
+FW91032,Unknow,Unknow,High School or Below,0,85857,73,0,Corporate Auto,Unknow,100
+DE34457,Unknow,Unknow,Doctor,0,70602,116,0,Personal Auto,Unknow,481
+HD32044,Unknow,Unknow,Master,0,33816,106,2,Corporate Auto,Unknow,508
+HH30454,Unknow,Unknow,Bachelor,0,0,153,0,Personal Auto,Unknow,1101
+AH84063,Unknow,Unknow,College,0,89642,121,4,Corporate Auto,Unknow,86
+QA17596,Unknow,Unknow,Bachelor,0,60068,98,0,Personal Auto,Unknow,470
+XI41052,Unknow,Unknow,Bachelor,0,50044,139,0,Personal Auto,Unknow,667
+DI30528,Unknow,Unknow,Master,0,36650,69,1,Personal Auto,Unknow,56
+SC66359,Unknow,Unknow,College,0,50653,110,0,Corporate Auto,Unknow,262
+EN61670,Unknow,Unknow,Doctor,0,68931,66,0,Personal Auto,Unknow,309
+DQ10761,Unknow,Unknow,Bachelor,0,0,73,1,Corporate Auto,Unknow,350
+BQ51587,Unknow,Unknow,College,0,0,73,0,Personal Auto,Unknow,365
+JE21522,Unknow,Unknow,Bachelor,0,39266,80,0,Personal Auto,Unknow,384
+WS47147,Unknow,Unknow,College,0,0,102,0,Personal Auto,Unknow,489
+ZA64638,Unknow,Unknow,High School or Below,0,0,98,1,Personal Auto,Unknow,705
+EW38459,Unknow,Unknow,Bachelor,0,40864,65,0,Corporate Auto,Unknow,9
+QW87316,Unknow,Unknow,College,0,39035,68,0,Personal Auto,Unknow,244
+IC43478,Unknow,Unknow,Bachelor,0,34923,98,0,Personal Auto,Unknow,639
+TE34064,Unknow,Unknow,High School or Below,0,0,63,0,Personal Auto,Unknow,453
+WU60905,Unknow,Unknow,High School or Below,0,0,111,0,Corporate Auto,Unknow,532
+YM18992,Unknow,Unknow,College,0,24506,71,0,Personal Auto,Unknow,511
+PD55753,Unknow,Unknow,High School or Below,0,0,82,0,Personal Auto,Unknow,554
+KU56006,Unknow,Unknow,College,0,52220,70,1,Personal Auto,Unknow,336
+MJ69973,Unknow,Unknow,High School or Below,0,0,74,0,Personal Auto,Unknow,402
+TW43626,Unknow,Unknow,College,0,53554,67,0,Personal Auto,Unknow,327
+XX84133,Unknow,Unknow,Bachelor,0,34476,67,1,Corporate Auto,Unknow,5
+ZW84453,Unknow,Unknow,Bachelor,0,0,70,0,Personal Auto,Unknow,131
+HO29524,Unknow,Unknow,College,0,68205,76,0,Personal Auto,Unknow,99
+VE89726,Unknow,F,High School or Below,0,0,119,1,Personal Auto,Unknow,856
+GE87503,Unknow,Unknow,High School or Below,0,53690,154,0,Personal Auto,Unknow,739
+PX90263,Unknow,Unknow,High School or Below,0,0,72,0,Personal Auto,Unknow,518
+NI17718,Unknow,F,High School or Below,0,0,61,0,Personal Auto,Unknow,292
+FY32213,Unknow,F,High School or Below,0,74454,71,0,Personal Auto,Unknow,340
+RZ13254,Unknow,F,Bachelor,0,0,73,0,Personal Auto,Unknow,350
+GN45013,Unknow,Unknow,High School or Below,0,29664,71,0,Personal Auto,Unknow,340
+NM39588,Unknow,Unknow,Doctor,0,72450,66,0,Corporate Auto,Unknow,84
+KU84464,Unknow,F,Bachelor,0,47272,79,3,Personal Auto,Unknow,64
+YH43527,Unknow,F,College,0,21585,92,0,Corporate Auto,Unknow,441
+RO30676,Unknow,F,College,0,23827,106,2,Personal Auto,Unknow,37
+QL59704,Unknow,F,College,0,69906,74,2,Corporate Auto,Unknow,202
+QH19450,Unknow,F,High School or Below,0,0,72,0,Corporate Auto,Unknow,345
+SA54664,Unknow,Unknow,Master,0,73196,66,1,Personal Auto,Unknow,85
+CI38330,Unknow,Unknow,Bachelor,0,72217,6464,0,Personal Auto,Unknow,91
+WB38524,Unknow,Unknow,High School or Below,0,46131,74,0,Personal Auto,Unknow,355
+CE56187,Unknow,F,Master,0,54514,109,3,Personal Auto,Unknow,286
+JL19416,Unknow,F,High School or Below,0,0,161,0,Personal Auto,Unknow,1159
+JZ61422,Unknow,F,College,0,96668,66,0,Personal Auto,Unknow,316
+LA13377,Unknow,Unknow,Doctor,0,78879,69,1,Personal Auto,Unknow,466
+NC99948,Unknow,Unknow,College,0,0,69,0,Personal Auto,Unknow,331
+QD34785,Unknow,F,Bachelor,0,0,76,0,Personal Auto,Unknow,364
+RO26085,Unknow,F,Bachelor,0,0,112,0,Personal Auto,Luxury,1252
+ES57969,Unknow,Unknow,Bachelor,0,29735,69,0,Personal Auto,Unknow,331
+JK55587,Unknow,Unknow,High School or Below,0,23082,65,0,Special Auto,Unknow,312
+RN97635,Unknow,Unknow,Bachelor,0,53984,80,0,Corporate Auto,Unknow,421
+BI76326,Unknow,F,College,0,52135,156,0,Personal Auto,Unknow,430
+JA34909,Unknow,F,College,0,17576,71,0,Corporate Auto,Unknow,398
+OJ90342,Unknow,F,Bachelor,0,29486,62,0,Personal Auto,Unknow,7
+CM88932,Unknow,F,Master,0,58557,88,0,Corporate Auto,Unknow,55
+JJ97525,Unknow,Unknow,Bachelor,0,25632,63,0,Personal Auto,Unknow,351
+XV21647,Unknow,F,High School or Below,0,0,112,0,Personal Auto,Luxury,806
+MC83487,Unknow,Unknow,Bachelor,0,18768,68,3,Corporate Auto,Unknow,647
+BL90769,Unknow,F,Bachelor,0,33190,106,0,Personal Auto,Unknow,508
+CR57148,Unknow,F,Master,0,47945,74,0,Personal Auto,Unknow,128
+CP85232,Unknow,Unknow,College,0,58778,126,0,Special Auto,Unknow,302
+YL74732,Unknow,F,High School or Below,0,15192,100,0,Personal Auto,Unknow,480
+FG16766,Unknow,F,Bachelor,0,51859,171,0,Personal Auto,Unknow,1003
+NV55438,Unknow,F,High School or Below,0,23422,72,0,Personal Auto,Unknow,518
+RM10880,Unknow,F,College,0,21604,79,0,Corporate Auto,Unknow,379
+GL56175,Unknow,Unknow,College,0,79298,90,0,Personal Auto,Unknow,244
+UK52289,Unknow,F,Bachelor,0,76731,64,0,Special Auto,Unknow,201
+OT85112,Unknow,Unknow,College,0,38460,88,1,Personal Auto,Unknow,91
+BC62782,Unknow,Unknow,College,0,48534,115,1,Personal Auto,Unknow,552
+TI19722,Unknow,Unknow,Doctor,0,30817,88,0,Corporate Auto,Unknow,91
+JP30654,Unknow,Unknow,College,0,48412,104,0,Personal Auto,Unknow,707
+UM45563,Unknow,Unknow,Bachelor,0,68798,114,0,Personal Auto,Unknow,92
+EN60878,Unknow,Unknow,Bachelor,0,23712,85,0,Personal Auto,Unknow,376
+JF36291,Unknow,Unknow,College,0,28142,105,0,Personal Auto,Luxury,701
+BK59444,Unknow,Unknow,Master,0,72196,68,0,Personal Auto,Unknow,152
+MK70700,Unknow,Unknow,Master,0,68197,69,0,Personal Auto,Unknow,176
+IW71076,Unknow,Unknow,Bachelor,0,75248,63,0,Corporate Auto,Unknow,104
+AP98768,Unknow,Unknow,College,0,0,98,0,Personal Auto,Unknow,941
+OM24164,Unknow,Unknow,Bachelor,0,0,65,1,Personal Auto,Unknow,468
+HR85211,Unknow,F,Master,0,89879,63,0,Personal Auto,Unknow,94
+VC87846,Unknow,Unknow,High School or Below,0,46998,96,0,Corporate Auto,Unknow,460
+ZM92052,Unknow,Unknow,Bachelor,0,57099,67,0,Personal Auto,Unknow,67
+ON73702,Unknow,Unknow,Bachelor,0,33897,114,0,Corporate Auto,Unknow,539
+QQ90441,Unknow,Unknow,High School or Below,0,59207,116,0,Personal Auto,Unknow,556
+HU35721,Unknow,Unknow,High School or Below,0,40171,73,0,Personal Auto,Unknow,350
+YP47665,Unknow,Unknow,Doctor,0,80192,67,0,Personal Auto,Unknow,95
+FU99476,Unknow,Unknow,High School or Below,0,74422,85,1,Personal Auto,Unknow,95
+AG85615,Unknow,Unknow,College,0,0,87,0,Special Auto,Unknow,626
+OY74069,Unknow,Unknow,College,0,0,67,5,Personal Auto,Unknow,321
+DJ91267,Unknow,Unknow,Bachelor,0,34226,244,0,Personal Auto,Luxury,494
+KB72438,Unknow,Unknow,High School or Below,0,65989,123,1,Personal Auto,Unknow,115
+TR67616,Unknow,Unknow,High School or Below,0,30686,61,0,Corporate Auto,Unknow,19
+GF65731,Unknow,Unknow,Master,0,0,113,0,Personal Auto,Luxury,799
+HB67642,Unknow,Unknow,High School or Below,0,20090,109,0,Personal Auto,Luxury,523
+DP84567,Unknow,Unknow,High School or Below,0,0,183,0,Personal Auto,Luxury,878
+VV77534,Unknow,Unknow,College,0,77094,176,0,Personal Auto,Unknow,444
+GL67540,Unknow,Unknow,College,0,97413,73,0,Personal Auto,Unknow,268
+SV50502,Unknow,Unknow,Master,0,79189,69,0,Corporate Auto,Unknow,331
+UK59698,Unknow,Unknow,High School or Below,0,0,62,0,Personal Auto,Unknow,297
+OA57352,Unknow,Unknow,College,0,18577,86,0,Personal Auto,Unknow,412
+ZF84449,Unknow,Unknow,College,0,0,112,1,Special Auto,Luxury,806
+AX86150,Unknow,Unknow,High School or Below,0,62777,67,0,Personal Auto,Unknow,101
+HG39060,Unknow,M,Bachelor,0,0,74,0,Corporate Auto,Unknow,532
+EM29359,Unknow,M,College,0,17483,183,0,Personal Auto,Luxury,1317
+SF57173,Unknow,M,Master,0,84394,114,0,Personal Auto,Unknow,691
+OT47603,Unknow,M,College,0,0,127,0,Personal Auto,Luxury,804
+SW31412,Unknow,Unknow,College,0,41440,62,1,Personal Auto,Unknow,297
+JS36322,Unknow,M,High School or Below,0,0,136,1,Personal Auto,Luxury,1090
+RE81445,Unknow,Unknow,College,0,98132,71,0,Personal Auto,Unknow,50
+RM24280,Unknow,Unknow,High School or Below,0,0,112,0,Personal Auto,Unknow,537
+LC25393,Unknow,M,Bachelor,0,88220,230,0,Personal Auto,Luxury,151
+UX38930,Unknow,Unknow,Master,0,58327,129,0,Personal Auto,Unknow,347
+HD95496,Unknow,M,Master,0,25950,66,0,Personal Auto,Unknow,271
+RX24650,Unknow,M,High School or Below,0,20993,133,0,Corporate Auto,Unknow,638
+DW19309,Unknow,M,High School or Below,0,65726,177,0,Corporate Auto,Unknow,849
+MT41386,Unknow,Unknow,Bachelor,0,84768,72,0,Personal Auto,Unknow,110
+WZ40465,Unknow,Unknow,Bachelor,0,36234,63,0,Personal Auto,Unknow,113
+DB42794,Unknow,M,College,0,58842,110,0,Personal Auto,Unknow,528
+JB50798,Unknow,Unknow,Master,0,25629,124,2,Corporate Auto,Luxury,595
+IP69763,Unknow,Unknow,College,0,77311,181,0,Personal Auto,Unknow,113
+TE35785,Unknow,M,Doctor,0,0,196,2,Personal Auto,Luxury,1337
+HX74855,Unknow,Unknow,High School or Below,0,95697,61,0,Personal Auto,Unknow,114
+QN65180,Unknow,Unknow,Bachelor,0,22254,79,0,Personal Auto,Unknow,125
+GE47180,Unknow,M,High School or Below,0,65974,113,0,Personal Auto,Luxury,235
+VQ38776,Unknow,Unknow,College,0,0,76,0,Personal Auto,Unknow,395
+BH86846,Unknow,Unknow,High School or Below,0,92079,65,1,Corporate Auto,Unknow,114
+IN17648,Unknow,M,High School or Below,0,0,74,0,Personal Auto,Unknow,772
+DF95759,Unknow,M,College,0,0,132,0,Personal Auto,Unknow,633
+QG45324,Unknow,Unknow,High School or Below,0,0,73,0,Personal Auto,Unknow,350
+MN61620,Unknow,Unknow,College,0,67752,131,4,Personal Auto,Luxury,168
+YH86390,Unknow,Unknow,Bachelor,0,25398,64,0,Corporate Auto,Unknow,307
+FY13480,Unknow,M,High School or Below,0,0,88,0,Personal Auto,Unknow,633
+YH61661,Unknow,Unknow,High School or Below,0,33321,105,0,Special Auto,Unknow,504
+NL93182,Unknow,Unknow,Bachelor,0,0,78,0,Corporate Auto,Unknow,845
+LN31673,Unknow,Unknow,College,0,38923,99,2,Personal Auto,Unknow,115
+WE68644,Unknow,Unknow,Bachelor,0,20325,100,0,Personal Auto,Luxury,668
+EZ30498,Unknow,Unknow,Bachelor,0,13129,117,0,Personal Auto,Unknow,700
+QY74517,Unknow,Unknow,High School or Below,0,0,73,0,Personal Auto,Unknow,525
+NM88660,Unknow,Unknow,Master,0,49080,91,0,Corporate Auto,Unknow,25
+MZ82036,Unknow,Unknow,College,0,42536,63,0,Personal Auto,Unknow,375
+ID20929,Unknow,Unknow,Bachelor,0,29926,74,0,Corporate Auto,Unknow,418
+EY50028,Unknow,Unknow,Doctor,0,0,86,0,Corporate Auto,Unknow,398
+TT82373,Unknow,Unknow,Bachelor,0,21450,138,0,Personal Auto,Luxury,938
+OH64088,Unknow,Unknow,High School or Below,0,33345,65,0,Corporate Auto,Unknow,338
+SK97780,Unknow,Unknow,Bachelor,0,15752,90,0,Corporate Auto,Unknow,339
+IO33050,Unknow,Unknow,High School or Below,0,40169,65,1,Personal Auto,Unknow,302
+XA55917,Unknow,Unknow,College,0,26049,113,1,Personal Auto,Unknow,619
+JK32620,Unknow,Unknow,College,0,0,68,0,Personal Auto,Unknow,326
+RQ19236,Unknow,Unknow,Doctor,0,55411,100,0,Personal Auto,Luxury,259
+QC47433,Unknow,Unknow,College,0,12459,70,0,Personal Auto,Unknow,336
+RA93608,Unknow,Unknow,Bachelor,0,64620,76,1,Personal Auto,Unknow,364
+XH97711,Unknow,Unknow,Bachelor,0,83140,61,0,Corporate Auto,Unknow,179
+AU96286,Unknow,Unknow,Bachelor,0,0,92,0,Corporate Auto,Unknow,662
+KC17170,Unknow,Unknow,Bachelor,0,54422,68,0,Corporate Auto,Unknow,75
+ZN47335,Unknow,Unknow,College,0,68309,131,0,Corporate Auto,Unknow,306
+EI46264,Unknow,Unknow,High School or Below,0,56621,65,2,Personal Auto,Unknow,84
+EK87864,Unknow,Unknow,College,0,38977,70,0,Special Auto,Unknow,139
+GV45403,Arizona,Unknow,Bachelor,0,0,111,0,Corporate Auto,Unknow,607
+QK31192,Arizona,Unknow,High School or Below,0,0,114,0,Corporate Auto,Unknow,631
+LU89008,Arizona,Unknow,College,0,0,83,0,Personal Auto,Unknow,628
+NS10490,Unknow,Unknow,Bachelor,0,83235,70,0,Personal Auto,Unknow,336
+KL98495,Unknow,Unknow,College,0,0,74,0,Personal Auto,Unknow,426
+IU96845,Arizona,Unknow,College,0,32390,80,0,Personal Auto,Unknow,91
+QL93655,Unknow,Unknow,High School or Below,0,66538,95,0,Personal Auto,Unknow,317
+PF40592,Unknow,Unknow,College,0,23285,65,0,Personal Auto,Unknow,118
+LZ34046,Unknow,Unknow,Bachelor,0,76358,66,0,Personal Auto,Unknow,86
+JC80093,Unknow,Unknow,Master,0,21104,66,0,Personal Auto,Unknow,118
+YE88490,Arizona,Unknow,College,0,55350,67,0,Personal Auto,Unknow,321
+YC80498,Unknow,Unknow,College,0,12964,65,0,Personal Auto,Unknow,362
+AI85843,Arizona,Unknow,Master,0,33288,86,2,Personal Auto,Unknow,221
+XD66024,Arizona,Unknow,College,0,0,84,0,Personal Auto,Unknow,980
+FY51713,Arizona,Unknow,Bachelor,0,56168,88,0,Personal Auto,Unknow,614
+PH26378,Unknow,Unknow,College,0,0,92,0,Personal Auto,Unknow,662
+WQ18638,Unknow,Unknow,High School or Below,0,23105,69,0,Personal Auto,Unknow,331
+KY14688,Unknow,Unknow,Master,0,36218,68,0,Personal Auto,Unknow,145
+TC97762,Unknow,Unknow,High School or Below,0,52275,62,0,Corporate Auto,Unknow,374
+QC87108,Unknow,Unknow,College,0,49665,74,0,Personal Auto,Unknow,355
+CX12134,Unknow,Unknow,High School or Below,0,32471,110,0,Personal Auto,Unknow,528
+SM73248,Arizona,Unknow,High School or Below,0,0,86,1,Corporate Auto,Unknow,619
+CK19789,Unknow,Unknow,Master,0,62773,73,0,Personal Auto,Unknow,80
+UV12583,Unknow,Unknow,College,0,76694,117,0,Personal Auto,Unknow,561
+JC11405,Unknow,Unknow,High School or Below,0,55687,276,0,Personal Auto,Luxury,1324
+KA89683,Arizona,Unknow,High School or Below,0,0,70,0,Personal Auto,Unknow,504
+BG85305,Unknow,Unknow,Doctor,0,36633,96,1,Personal Auto,Unknow,460
+UQ87917,Unknow,Unknow,High School or Below,0,77060,106,0,Personal Auto,Unknow,468
+XN11823,Unknow,Unknow,Bachelor,0,92600,94,0,Corporate Auto,Unknow,842
+OS46571,Unknow,Unknow,High School or Below,0,0,66,0,Personal Auto,Unknow,475
+PX17116,Unknow,Unknow,College,0,0,111,2,Corporate Auto,Unknow,1171
+RP19541,Arizona,Unknow,College,0,64801,64,0,Personal Auto,Unknow,268
+ZR25747,Unknow,Unknow,College,0,45257,103,0,Corporate Auto,Unknow,494
+NQ86532,Unknow,Unknow,High School or Below,0,26854,66,0,Personal Auto,Unknow,475
+JY27336,Unknow,Unknow,College,0,85840,102,2,Corporate Auto,Unknow,138
+PB54378,Unknow,Unknow,Doctor,0,26463,72,0,Corporate Auto,Unknow,345
+SV38190,Unknow,Unknow,Bachelor,0,30689,81,0,Personal Auto,Unknow,467
+CV24005,Unknow,Unknow,High School or Below,0,29590,66,0,Corporate Auto,Unknow,467
+EX28656,Unknow,Unknow,College,0,25965,253,0,Personal Auto,Luxury,1214
+CF57022,Unknow,Unknow,Bachelor,0,17269,139,0,Personal Auto,Unknow,667
+GM16780,Unknow,Unknow,College,0,90330,137,3,Corporate Auto,Luxury,192
+BX94438,Unknow,Unknow,High School or Below,0,0,113,0,Corporate Auto,Unknow,619
+RM41745,Unknow,Unknow,High School or Below,0,0,110,0,Personal Auto,Unknow,1002
+XR70252,Unknow,Unknow,High School or Below,0,0,67,1,Personal Auto,Unknow,321
+YH92099,Arizona,Unknow,Bachelor,0,18558,80,0,Special Auto,Unknow,384
+SG81493,Unknow,Unknow,Bachelor,0,46384,113,0,Corporate Auto,Unknow,251
+ZX23819,Unknow,Unknow,High School or Below,0,0,72,0,Personal Auto,Unknow,866
+FJ54907,Unknow,Unknow,College,0,42303,180,0,Personal Auto,Luxury,1210
+CU26127,Unknow,Unknow,Bachelor,0,71731,130,0,Corporate Auto,Unknow,599
+YH60476,Unknow,Unknow,High School or Below,0,51066,74,0,Corporate Auto,Unknow,787
+ZZ97035,Unknow,Unknow,College,0,0,203,0,Corporate Auto,Luxury,2027
+GE82737,Unknow,Unknow,Bachelor,0,0,86,3,Personal Auto,Unknow,619
+KY21873,Unknow,Unknow,College,0,0,69,0,Personal Auto,Unknow,72
+UA51318,Unknow,Unknow,High School or Below,0,26173,68,1,Corporate Auto,Unknow,449
+BV55014,Unknow,Unknow,Bachelor,0,24445,63,0,Personal Auto,Unknow,302
+HX21307,Unknow,M,College,0,72302,66,0,Personal Auto,Unknow,316
+LQ68252,Unknow,M,High School or Below,0,27208,102,0,Personal Auto,Unknow,489
+CR92802,Unknow,Unknow,Master,0,36650,69,1,Special Auto,Unknow,56
+SL35268,Unknow,M,College,0,30855,68,0,Corporate Auto,Unknow,259
+RD62882,Unknow,Unknow,Bachelor,0,0,95,0,Personal Auto,Unknow,456
+JS42382,Unknow,M,Master,0,99960,76,0,Corporate Auto,Unknow,364
+BT30554,Unknow,Unknow,Bachelor,0,0,98,0,Personal Auto,Unknow,470
+VP57424,Unknow,Unknow,Bachelor,0,55873,88,0,Personal Auto,Unknow,299
+VU19243,Unknow,Unknow,High School or Below,0,18052,111,0,Personal Auto,Unknow,699
+TA82973,Unknow,Unknow,High School or Below,0,28937,104,2,Personal Auto,Unknow,117
+GK71720,Unknow,Unknow,High School or Below,0,0,86,0,Personal Auto,Unknow,545
+OQ61223,Unknow,M,College,0,0,73,0,Personal Auto,Unknow,350
+LL62746,Unknow,M,Doctor,0,12829,118,0,Personal Auto,Unknow,328
+JQ56711,Unknow,Unknow,Master,0,92163,73,0,Personal Auto,Unknow,66
+AW77988,Unknow,M,High School or Below,0,17588,192,0,Personal Auto,Luxury,1382
+QP84605,Unknow,Unknow,Bachelor,0,41546,111,0,Corporate Auto,Unknow,121
+MY97912,Unknow,M,College,0,0,127,0,Personal Auto,Unknow,609
+IB87349,Unknow,Unknow,High School or Below,0,70340,113,0,Special Auto,Unknow,542
+AW73065,Unknow,Unknow,High School or Below,0,0,74,0,Personal Auto,Unknow,532
+BW80872,Unknow,Unknow,High School or Below,0,34549,111,0,Personal Auto,Unknow,125
+PX70175,Unknow,Unknow,College,0,93459,99,0,Personal Auto,Unknow,655
+KF75098,Unknow,Unknow,Bachelor,0,86148,65,2,Personal Auto,Unknow,312
+IS50283,Unknow,Unknow,Bachelor,0,27048,72,0,Corporate Auto,Unknow,345
+MY64920,Unknow,Unknow,College,0,73259,115,0,Personal Auto,Unknow,673
+KN34250,Unknow,Unknow,College,0,35482,129,0,Corporate Auto,Unknow,619
+GN46207,Unknow,Unknow,Master,0,29462,107,1,Personal Auto,Unknow,513
+KL57176,Unknow,Unknow,College,0,67801,115,1,Personal Auto,Unknow,23
+MN94234,Unknow,Unknow,High School or Below,0,0,94,4,Personal Auto,Unknow,451
+JY90595,Unknow,Unknow,High School or Below,0,16042,73,0,Personal Auto,Unknow,350
+HK26543,Unknow,Unknow,High School or Below,0,28056,64,1,Personal Auto,Unknow,307
+PN86062,Unknow,Unknow,High School or Below,0,16495,85,3,Corporate Auto,Unknow,408
+VW27730,Unknow,Unknow,Master,0,41163,108,0,Corporate Auto,Unknow,231
+SH55671,Unknow,Unknow,College,0,0,161,1,Personal Auto,Luxury,772
+MO56878,Unknow,Unknow,Bachelor,0,33799,109,3,Corporate Auto,Unknow,664
+VO38365,Unknow,Unknow,College,0,90125,110,0,Corporate Auto,Unknow,128
+SV35618,Unknow,Unknow,Bachelor,0,87747,147,1,Personal Auto,Unknow,46
+RX12347,Unknow,Unknow,College,0,35695,90,0,Personal Auto,Unknow,432
+FR55658,Unknow,Unknow,Master,0,90985,87,0,Personal Auto,Unknow,78
+XS12556,Unknow,Unknow,College,0,0,101,0,Corporate Auto,Luxury,564
+ZU73588,Unknow,Unknow,College,0,66839,154,0,Personal Auto,Luxury,739
+WT43034,Unknow,Unknow,High School or Below,0,0,165,0,Personal Auto,Unknow,792
+VM13430,Unknow,Unknow,Bachelor,0,79090,107,0,Corporate Auto,Unknow,289
+TC78849,Unknow,Unknow,Bachelor,0,24825,64,0,Personal Auto,Unknow,155
+VC34764,Unknow,Unknow,College,0,26806,63,0,Personal Auto,Unknow,302
+WO90953,Unknow,Unknow,College,0,56835,67,0,Personal Auto,Unknow,326
+IU47468,Unknow,Unknow,Bachelor,0,0,88,0,Special Auto,Unknow,653
+KO46064,Unknow,Unknow,Bachelor,0,46135,69,0,Personal Auto,Unknow,103
+RB34917,Unknow,Unknow,Bachelor,0,0,73,0,Personal Auto,Unknow,809
+BI38192,Unknow,Unknow,High School or Below,0,22862,67,0,Personal Auto,Unknow,321
+PU18983,Unknow,Unknow,High School or Below,0,21450,110,2,Personal Auto,Luxury,528
+SW79912,Unknow,Unknow,Bachelor,0,95854,65,0,Personal Auto,Unknow,312
+ES39217,Unknow,Unknow,Bachelor,0,44897,99,1,Personal Auto,Unknow,580
+KP72427,Unknow,Unknow,High School or Below,0,64455,108,0,Personal Auto,Unknow,133
+UA19178,Unknow,Unknow,Master,0,53265,62,0,Personal Auto,Unknow,238
+PR53785,Unknow,Unknow,High School or Below,0,0,198,1,Personal Auto,Luxury,1577
+XF57481,Unknow,Unknow,Master,0,50450,90,0,Personal Auto,Unknow,135
+CN90378,Unknow,Unknow,High School or Below,0,54780,88,3,Personal Auto,Unknow,135
+KI56154,Unknow,Unknow,High School or Below,0,0,119,0,Personal Auto,Luxury,571
+UI55951,Unknow,Unknow,Bachelor,0,67798,69,0,Personal Auto,Unknow,331
+FF28650,Unknow,Unknow,Bachelor,0,21442,118,0,Personal Auto,Unknow,566
+FS55302,Unknow,Unknow,Bachelor,0,27615,62,1,Personal Auto,Unknow,297
+TN79487,Unknow,Unknow,Bachelor,0,17622,65,1,Personal Auto,Unknow,312
+HG32616,Unknow,Unknow,High School or Below,0,50200,135,0,Personal Auto,Luxury,637
+UK41984,Unknow,Unknow,Doctor,0,0,112,2,Personal Auto,Unknow,537
+LZ52266,Unknow,Unknow,High School or Below,0,0,96,0,Personal Auto,Unknow,460
+PM27367,Unknow,Unknow,Master,0,73570,70,1,Special Auto,Unknow,75
+ZK21724,Unknow,Unknow,High School or Below,0,0,111,0,Personal Auto,Unknow,799
+BH35482,Unknow,Unknow,Doctor,0,70412,61,0,Corporate Auto,Unknow,136
+QE22757,Unknow,Unknow,Doctor,0,36631,62,0,Personal Auto,Unknow,67
+ON77649,Unknow,Unknow,College,0,35895,73,0,Personal Auto,Unknow,312
+RN82884,Unknow,Unknow,College,0,40864,109,1,Personal Auto,Unknow,166
+CQ75652,Unknow,Unknow,College,0,0,118,0,Personal Auto,Unknow,566
+FF58467,Unknow,Unknow,Master,0,93018,63,0,Personal Auto,Unknow,135
+BS83666,Unknow,Unknow,Bachelor,0,70014,62,0,Corporate Auto,Unknow,17
+WO29605,Unknow,Unknow,College,0,48875,61,0,Personal Auto,Unknow,1
+TL77607,Unknow,Unknow,Bachelor,0,67969,74,0,Personal Auto,Unknow,197
+EZ50606,Unknow,Unknow,High School or Below,0,0,108,0,Corporate Auto,Unknow,612
+OS39723,Unknow,Unknow,Doctor,0,68665,69,0,Personal Auto,Unknow,331
+FN69743,Unknow,Unknow,College,0,26802,66,1,Corporate Auto,Unknow,316
+XW96958,Unknow,Unknow,High School or Below,0,0,110,0,Corporate Auto,Unknow,1193
+TU92578,Unknow,Unknow,College,0,45345,125,0,Personal Auto,Unknow,600
+TL43709,Unknow,Unknow,Bachelor,0,89689,74,0,Personal Auto,Unknow,136
+YE68736,Unknow,Unknow,Bachelor,0,32051,193,1,Personal Auto,Unknow,926
+OB96537,Unknow,Unknow,Master,0,81139,74,0,Special Auto,Unknow,392
+EU68825,Unknow,Unknow,Master,0,63834,100,1,Personal Auto,Luxury,215
+CC31456,Unknow,Unknow,Bachelor,0,37548,81,0,Special Auto,Unknow,160
+DJ77787,Unknow,Unknow,High School or Below,0,0,69,3,Personal Auto,Unknow,371
+LN26837,Unknow,Unknow,High School or Below,0,72421,65,0,Personal Auto,Unknow,312
+YI92916,Unknow,Unknow,Master,0,83102,116,0,Corporate Auto,Unknow,443
+NW54906,Unknow,Unknow,College,0,28432,118,0,Personal Auto,Unknow,612
+ME77513,Unknow,Unknow,Master,0,83707,108,0,Corporate Auto,Unknow,290
+UK76891,Unknow,Unknow,College,0,63259,65,0,Corporate Auto,Unknow,316
+SI26888,Unknow,Unknow,High School or Below,0,0,67,0,Personal Auto,Unknow,405
+YD74948,Unknow,Unknow,College,0,63860,62,0,Personal Auto,Unknow,208
+HB64268,Unknow,Unknow,Bachelor,0,43836,73,0,Personal Auto,Unknow,138
+BW52697,Unknow,Unknow,College,0,86132,68,0,Personal Auto,Unknow,301
+NL41409,Unknow,Unknow,Bachelor,0,28519,66,0,Personal Auto,Unknow,456
+OD69005,Unknow,Unknow,High School or Below,0,39102,88,0,Personal Auto,Unknow,152
+ZZ91716,Unknow,Unknow,Bachelor,0,0,89,0,Personal Auto,Unknow,491
+UK70255,Unknow,Unknow,College,0,97298,128,0,Personal Auto,Luxury,48
+QT25383,Unknow,Unknow,High School or Below,0,41986,84,2,Personal Auto,Unknow,430
+AW18068,Unknow,Unknow,High School or Below,0,0,88,0,Personal Auto,Unknow,633
+NS45347,Unknow,Unknow,College,0,17291,73,0,Personal Auto,Unknow,350
+FV19421,Unknow,Unknow,Bachelor,0,0,74,0,Personal Auto,Unknow,246
+XW89091,Unknow,Unknow,College,0,37256,62,0,Personal Auto,Unknow,128
+YC11951,Unknow,Unknow,High School or Below,0,96306,95,1,Corporate Auto,Unknow,185
+UY18770,Unknow,Unknow,Bachelor,0,14290,271,0,Personal Auto,Luxury,1300
+RA49085,Unknow,Unknow,College,0,37038,71,1,Corporate Auto,Unknow,9
+BG84194,Unknow,Unknow,College,0,90760,103,2,Special Auto,Unknow,133
+PT64580,Unknow,Unknow,Master,0,77048,103,0,Personal Auto,Unknow,141
+MR67738,Unknow,Unknow,High School or Below,0,54480,67,0,Personal Auto,Unknow,321
+DM95829,Unknow,Unknow,College,0,16244,68,0,Personal Auto,Unknow,623
+DB75522,Unknow,Unknow,College,0,22436,89,0,Special Auto,Unknow,427
+LM34525,Unknow,Unknow,College,0,71592,72,0,Personal Auto,Unknow,141
+WW30771,Unknow,Unknow,Master,0,28728,67,0,Personal Auto,Unknow,321
+QP65569,Unknow,Unknow,High School or Below,0,57449,103,0,Personal Auto,Unknow,494
+TN50051,Unknow,Unknow,Doctor,0,83318,73,0,Personal Auto,Unknow,211
+UO86707,Unknow,Unknow,Bachelor,0,75217,61,1,Personal Auto,Unknow,147
+JA41698,Unknow,Unknow,Bachelor,0,0,102,5,Corporate Auto,Unknow,862
+NX18774,Unknow,Unknow,Bachelor,0,55308,107,0,Corporate Auto,Unknow,513
+DA69469,Unknow,Unknow,College,0,36068,97,0,Personal Auto,Unknow,113
+CN23147,Unknow,Unknow,Bachelor,0,48804,112,1,Corporate Auto,Unknow,537
+RA68844,Unknow,Unknow,College,0,0,131,0,Personal Auto,Unknow,943
+GH42026,Unknow,Unknow,Bachelor,0,55790,111,0,Personal Auto,Unknow,117
+BD16530,Unknow,Unknow,Bachelor,0,70258,69,0,Personal Auto,Unknow,225
+JH91579,Unknow,Unknow,Bachelor,0,0,95,0,Personal Auto,Unknow,456
+WK23685,Unknow,Unknow,Bachelor,0,47274,83,1,Corporate Auto,Unknow,182
+GR62267,Unknow,Unknow,College,0,44705,71,0,Personal Auto,Unknow,148
+PI78084,Unknow,Unknow,High School or Below,0,0,73,0,Personal Auto,Unknow,525
+GF97874,Unknow,Unknow,Master,0,70446,65,0,Personal Auto,Unknow,155
+ZH19885,Unknow,Unknow,High School or Below,0,43860,65,0,Personal Auto,Unknow,156
+UK25655,Unknow,Unknow,Bachelor,0,64348,86,0,Personal Auto,Unknow,212
+QR45101,Unknow,Unknow,Bachelor,0,0,62,0,Corporate Auto,Unknow,297
+EL93539,Unknow,Unknow,Master,0,88997,72,0,Special Auto,Unknow,174
+EE99484,Unknow,Unknow,High School or Below,0,43860,65,0,Corporate Auto,Unknow,156
+DP46882,Unknow,Unknow,High School or Below,0,10312,78,0,Corporate Auto,Unknow,486
+WP41146,Unknow,Unknow,High School or Below,0,0,72,1,Personal Auto,Unknow,345
+TK60799,Unknow,Unknow,High School or Below,0,96263,103,0,Personal Auto,Unknow,1
+DN29808,Unknow,Unknow,College,0,28919,72,0,Corporate Auto,Unknow,518
+SS59521,Unknow,Unknow,College,0,0,68,1,Personal Auto,Unknow,326
+NG66579,Unknow,Unknow,Bachelor,0,41869,64,0,Personal Auto,Unknow,262
+TC14209,Unknow,Unknow,High School or Below,0,0,128,0,Personal Auto,Unknow,921
+ED50963,Unknow,Unknow,High School or Below,0,32808,68,1,Personal Auto,Unknow,541
+GP40701,Unknow,Unknow,Bachelor,0,79780,68,0,Personal Auto,Unknow,326
+CP98451,Unknow,Unknow,College,0,91025,112,0,Personal Auto,Unknow,327
+NX52648,Unknow,Unknow,High School or Below,0,33043,95,0,Personal Auto,Unknow,456
+ZC32510,Unknow,Unknow,High School or Below,0,69442,118,3,Personal Auto,Unknow,1265
+NG27780,Unknow,Unknow,College,0,0,70,0,Corporate Auto,Unknow,63
+HN95240,Unknow,Unknow,College,0,0,70,0,Corporate Auto,Unknow,336
+EB59129,Unknow,Unknow,Bachelor,0,47234,65,0,Personal Auto,Unknow,15
+RA70851,Unknow,Unknow,High School or Below,0,86863,92,0,Personal Auto,Unknow,441
+PM19162,Unknow,Unknow,Bachelor,0,25805,66,2,Personal Auto,Unknow,375
+MS59005,Unknow,Unknow,Bachelor,0,43676,76,0,Personal Auto,Unknow,364
+SU71163,Unknow,Unknow,College,0,59855,74,4,Personal Auto,Unknow,355
+BD35676,Unknow,Unknow,Master,0,35296,126,0,Personal Auto,Unknow,452
+NI44621,Unknow,Unknow,Master,0,36576,125,1,Personal Auto,Unknow,113
+EW33419,Unknow,Unknow,High School or Below,0,28513,100,1,Corporate Auto,Unknow,480
+HX44948,Unknow,Unknow,Bachelor,0,85448,72,0,Special Auto,Unknow,16
+DL36983,Unknow,Unknow,High School or Below,0,23791,110,3,Personal Auto,Unknow,615
+XR87264,Unknow,Unknow,Bachelor,0,20597,112,0,Personal Auto,Unknow,615
+NN99001,Unknow,Unknow,College,0,56940,87,0,Personal Auto,Unknow,512
+XV95530,Unknow,Unknow,Bachelor,0,93210,71,0,Personal Auto,Unknow,74
+OL97871,Unknow,Unknow,Bachelor,0,48992,94,1,Personal Auto,Unknow,426
+HQ23708,Unknow,Unknow,Master,0,53736,71,0,Personal Auto,Unknow,169
+WR63188,Unknow,Unknow,College,0,25378,66,1,Personal Auto,Unknow,419
+NG82219,Unknow,Unknow,Bachelor,0,76731,64,0,Personal Auto,Unknow,201
+KU29408,Unknow,Unknow,Master,0,37722,116,0,Corporate Auto,Luxury,158
+RE46783,Unknow,Unknow,Bachelor,0,69379,103,0,Personal Auto,Unknow,494
+RU94434,Unknow,Unknow,High School or Below,0,57449,103,0,Personal Auto,Unknow,494
+GI82355,Unknow,Unknow,Bachelor,0,0,68,0,Corporate Auto,Unknow,326
+VO26340,Unknow,Unknow,College,0,0,93,0,Personal Auto,Unknow,669
+NV61299,Unknow,Unknow,Bachelor,0,33806,89,0,Corporate Auto,Unknow,395
+DX31066,Unknow,Unknow,College,0,94041,66,0,Personal Auto,Unknow,159
+CY50337,Unknow,Unknow,College,0,74965,90,0,Personal Auto,Unknow,58
+TJ20375,Unknow,Unknow,High School or Below,0,34095,63,0,Personal Auto,Unknow,302
+EP72155,Unknow,Unknow,College,0,0,66,4,Personal Auto,Unknow,316
+JJ76159,Unknow,Unknow,College,0,96045,61,0,Corporate Auto,Unknow,8
+BG15419,Unknow,Unknow,Bachelor,0,86355,118,0,Personal Auto,Luxury,285
+AO74776,Unknow,Unknow,High School or Below,0,27824,118,0,Personal Auto,Unknow,566
+HQ82233,Unknow,Unknow,High School or Below,0,42995,101,0,Personal Auto,Unknow,410
+OL72737,Unknow,Unknow,High School or Below,0,21235,79,0,Personal Auto,Unknow,244
+ZQ59828,Unknow,Unknow,High School or Below,0,74585,106,0,Personal Auto,Unknow,218
+NZ15548,Unknow,Unknow,Bachelor,0,41833,103,0,Personal Auto,Unknow,643
+XK61304,Unknow,Unknow,College,0,23908,70,0,Personal Auto,Unknow,336
+EJ44139,Unknow,Unknow,Bachelor,0,0,65,0,Personal Auto,Unknow,312
+CM94425,Unknow,Unknow,Bachelor,0,61953,113,0,Personal Auto,Unknow,497
+OV54878,Unknow,Unknow,Bachelor,0,0,142,0,Corporate Auto,Unknow,1022
+JF57282,Unknow,Unknow,Bachelor,0,0,137,0,Personal Auto,Unknow,657
+MY37953,Unknow,Unknow,Bachelor,0,73760,107,1,Personal Auto,Luxury,230
+XP64922,Unknow,Unknow,College,0,23333,74,0,Corporate Auto,Unknow,5
+WL65572,Unknow,Unknow,College,0,0,61,0,Personal Auto,Unknow,292
+LN50325,Unknow,Unknow,High School or Below,0,20440,128,2,Corporate Auto,Luxury,614
+HJ15383,Unknow,Unknow,Master,0,27658,68,0,Personal Auto,Unknow,160
+KH59823,Unknow,Unknow,College,0,50943,139,0,Special Auto,Unknow,667
+YM79169,Unknow,Unknow,Bachelor,0,19003,71,0,Personal Auto,Unknow,34
+DR38127,Unknow,Unknow,College,0,46703,108,0,Personal Auto,Unknow,678
+PU42145,Unknow,Unknow,Bachelor,0,14072,71,0,Personal Auto,Unknow,511
+KM33477,Unknow,Unknow,College,0,21733,73,0,Corporate Auto,Unknow,525
+RI53167,Unknow,Unknow,Bachelor,0,20811,61,0,Personal Auto,Unknow,292
+OF77789,Unknow,Unknow,High School or Below,0,11904,61,2,Personal Auto,Unknow,292
+YB33445,Unknow,Unknow,College,0,43490,114,4,Corporate Auto,Unknow,174
+BA17836,Unknow,Unknow,High School or Below,0,57340,67,0,Corporate Auto,Unknow,159
+JS43228,Unknow,Unknow,College,0,49088,97,0,Corporate Auto,Unknow,698
+BB11622,Unknow,Unknow,Master,0,47761,131,0,Personal Auto,Unknow,232
+HQ70429,Unknow,Unknow,College,0,0,65,0,Personal Auto,Unknow,163
+WK88044,Unknow,Unknow,Bachelor,0,61281,110,0,Personal Auto,Unknow,79
+LA80525,Unknow,Unknow,Bachelor,0,0,82,1,Corporate Auto,Unknow,393
+EH16250,Unknow,Unknow,Bachelor,0,25290,66,0,Personal Auto,Unknow,382
+PU41872,Unknow,Unknow,High School or Below,0,24239,88,0,Personal Auto,Unknow,48
+HB85743,Unknow,Unknow,Bachelor,0,82664,114,3,Personal Auto,Unknow,133
+MM71959,Unknow,Unknow,Bachelor,0,83210,110,0,Personal Auto,Luxury,528
+MB83663,Unknow,Unknow,Bachelor,0,38736,81,0,Personal Auto,Unknow,561
+KR43119,Unknow,Unknow,College,0,0,66,0,Personal Auto,Unknow,316
+KH24214,Unknow,Unknow,College,0,55437,64,1,Personal Auto,Unknow,445
+AC40767,Unknow,Unknow,Bachelor,0,68041,6464,0,Personal Auto,Unknow,165
+HP55391,Unknow,Unknow,Master,0,0,71,0,Corporate Auto,Unknow,407
+EG62398,Unknow,Unknow,High School or Below,0,29066,100,0,Personal Auto,Unknow,844
+VS19949,Unknow,Unknow,Bachelor,0,54337,72,0,Personal Auto,Unknow,345
+AM92343,Unknow,Unknow,High School or Below,0,67616,96,0,Personal Auto,Unknow,340
+GI68556,Unknow,Unknow,Bachelor,0,41082,63,0,Personal Auto,Unknow,106
+JT11876,Washington,Unknow,High School or Below,0,0,10202,0,Personal Auto,Unknow,626
+XR64251,Unknow,Unknow,Master,0,36650,69,1,Personal Auto,Unknow,56
+MK34957,Unknow,Unknow,College,0,50631,112,4,Special Auto,Unknow,784
+GP18756,Unknow,Unknow,College,0,19592,92,0,Personal Auto,Unknow,441
+AP23850,Washington,Unknow,High School or Below,0,0,114,0,Personal Auto,Unknow,547
+KQ65521,Unknow,Unknow,College,0,55761,115,0,Personal Auto,Luxury,86
+EJ19449,Unknow,Unknow,College,0,17576,71,0,Special Auto,Unknow,398
+QB70027,Unknow,Unknow,Bachelor,0,41449,89,0,Personal Auto,Unknow,63
+QW47320,California,Unknow,Bachelor,0,14290,271,0,Personal Auto,Luxury,1300
+KH64733,Unknow,Unknow,College,0,62007,73,0,Personal Auto,Unknow,120
+ON59472,Unknow,Unknow,High School or Below,0,21921,206,0,Corporate Auto,Luxury,1254
+HP94242,Unknow,Unknow,Bachelor,0,42621,66,0,Personal Auto,Unknow,316
+RV15398,Unknow,Unknow,College,0,0,87,1,Personal Auto,Unknow,417
+EA25683,Washington,Unknow,High School or Below,0,63786,196,0,Corporate Auto,Luxury,798
+PW73754,California,Unknow,High School or Below,0,0,104,3,Personal Auto,Luxury,82
+MC71942,California,Unknow,High School or Below,0,82877,99,1,Personal Auto,Unknow,22
+OX72195,Unknow,Unknow,College,0,0,63,0,Corporate Auto,Unknow,302
+YQ99152,Unknow,Unknow,High School or Below,0,10475,88,1,Personal Auto,Unknow,422
+KI19439,Unknow,Unknow,High School or Below,0,21952,66,0,Personal Auto,Unknow,316
+PM76175,Unknow,Unknow,Bachelor,0,49721,132,0,Corporate Auto,Luxury,639
+US45383,California,Unknow,College,0,88340,102,0,Personal Auto,Unknow,489
+GT38956,California,Unknow,College,0,0,65,0,Personal Auto,Unknow,312
+SN41301,Unknow,Unknow,Bachelor,0,0,65,0,Corporate Auto,Unknow,468
+BE62503,Washington,Unknow,College,0,24589,82,0,Personal Auto,Unknow,511
+PA16884,California,Unknow,Bachelor,0,69379,103,0,Personal Auto,Unknow,494
+NC58480,Unknow,Unknow,Bachelor,0,73769,61,2,Personal Auto,Unknow,239
+NS39326,California,Unknow,College,0,66670,114,0,Personal Auto,Unknow,518
+PN18507,Unknow,Unknow,Bachelor,0,88854,118,0,Personal Auto,Unknow,715
+EK91340,Unknow,Unknow,Bachelor,0,31266,193,0,Corporate Auto,Luxury,926
+JY16280,California,Unknow,High School or Below,0,43860,65,0,Personal Auto,Unknow,156
+ZW71731,California,Unknow,Bachelor,0,89284,133,2,Corporate Auto,Unknow,402
+ZC24631,Unknow,Unknow,College,0,67267,89,0,Corporate Auto,Unknow,94
+YR34689,California,Unknow,High School or Below,0,79270,95,3,Personal Auto,Unknow,456
+RT65829,Unknow,Unknow,Bachelor,0,36692,109,1,Personal Auto,Unknow,523
+BZ12077,Unknow,Unknow,High School or Below,0,0,119,0,Personal Auto,Unknow,571
+WM65373,California,Unknow,College,0,0,107,0,Corporate Auto,Unknow,513
+NH35059,Unknow,Unknow,College,0,0,105,0,Corporate Auto,Unknow,504
+QD38160,Unknow,Unknow,College,0,0,135,0,Personal Auto,Unknow,972
+BM15160,California,Unknow,High School or Below,0,44624,71,1,Special Auto,Unknow,73
+VY79030,Unknow,Unknow,College,0,0,71,0,Corporate Auto,Unknow,340
+EV19512,Unknow,Unknow,Master,0,19614,85,0,Personal Auto,Unknow,574
+TE13577,Unknow,Unknow,College,0,0,64,0,Personal Auto,Unknow,632
+WY97929,Unknow,Unknow,College,0,83846,74,3,Special Auto,Unknow,355
+YG20683,Washington,Unknow,College,0,51159,72,0,Personal Auto,Unknow,4
+FK75497,California,Unknow,College,0,83772,62,0,Personal Auto,Unknow,42
+NE60110,Unknow,Unknow,College,0,66839,154,0,Personal Auto,Luxury,739
+TN36521,Unknow,Unknow,College,0,88440,70,0,Personal Auto,Unknow,27
+HG33568,Unknow,Unknow,Master,0,25666,63,2,Personal Auto,Unknow,270
+TW17878,Unknow,Unknow,High School or Below,0,52926,61,0,Personal Auto,Unknow,292
+ZO83562,Unknow,Unknow,Bachelor,0,0,67,0,Personal Auto,Unknow,494
+CH97539,Washington,Unknow,Bachelor,0,40001,70,0,Personal Auto,Unknow,142
+CV29889,California,Unknow,College,0,0,70,0,Personal Auto,Unknow,425
+MO33320,Unknow,Unknow,College,0,18024,65,0,Personal Auto,Unknow,312
+QZ81258,Unknow,Unknow,College,0,0,68,3,Personal Auto,Unknow,326
+NY56352,Unknow,Unknow,Bachelor,0,23220,74,0,Personal Auto,Unknow,251
+EA27048,California,Unknow,High School or Below,0,64125,108,0,Personal Auto,Unknow,369
+UT38865,Unknow,Unknow,College,0,58042,62,0,Corporate Auto,Unknow,161
+QC89139,Unknow,Unknow,High School or Below,0,90034,112,0,Corporate Auto,Unknow,537
+LA14484,Unknow,Unknow,High School or Below,0,27972,61,0,Special Auto,Unknow,292
+HN57556,California,Unknow,High School or Below,0,0,65,0,Personal Auto,Unknow,312
+CV31235,Unknow,Unknow,Bachelor,0,50989,80,0,Corporate Auto,Unknow,255
+WR45726,Unknow,Unknow,Bachelor,0,11885,101,0,Special Auto,Unknow,484
+LB25094,California,Unknow,Bachelor,0,89451,63,0,Special Auto,Unknow,61
+KW56110,Unknow,Unknow,Bachelor,0,0,182,0,Personal Auto,Luxury,1310
+XO36233,Washington,Unknow,Bachelor,0,78904,109,0,Personal Auto,Unknow,250
+ZX86243,Unknow,Unknow,Doctor,0,70247,83,1,Personal Auto,Unknow,141
+DW29763,Unknow,Unknow,High School or Below,0,32653,67,0,Personal Auto,Unknow,321
+CT83377,Washington,Unknow,High School or Below,0,93595,97,4,Special Auto,Unknow,49
+OQ90898,California,Unknow,Master,0,90279,115,0,Personal Auto,Unknow,372
+GO77248,Unknow,Unknow,College,0,0,72,0,Personal Auto,Unknow,542
+QW33258,California,Unknow,Bachelor,0,53310,189,3,Personal Auto,Luxury,1360
+OU79745,California,Unknow,College,0,0,105,0,Personal Auto,Unknow,504
+VZ79886,Unknow,Unknow,Bachelor,0,22234,160,0,Personal Auto,Unknow,768
+FI92440,Washington,Unknow,High School or Below,0,91375,99,0,Personal Auto,Unknow,72
+YG85980,Unknow,Unknow,High School or Below,0,22250,86,0,Personal Auto,Unknow,720
+QM74621,Unknow,Unknow,Bachelor,0,0,80,0,Personal Auto,Unknow,576
+EI71732,Unknow,Unknow,Doctor,0,0,84,1,Personal Auto,Unknow,481
+VN79010,California,Unknow,High School or Below,0,51179,71,0,Corporate Auto,Unknow,466
+FI61723,California,Unknow,Bachelor,0,38667,72,0,Personal Auto,Unknow,159
+OH55411,California,Unknow,Master,0,79487,114,0,Corporate Auto,Unknow,547
+TF10720,Unknow,Unknow,Doctor,0,67763,107,2,Personal Auto,Unknow,41
+NW30838,Unknow,Unknow,High School or Below,0,0,62,2,Corporate Auto,Unknow,503
+CB58476,Unknow,Unknow,College,0,0,71,0,Corporate Auto,Unknow,859
+WI69346,California,Unknow,Master,0,71943,112,0,Corporate Auto,Unknow,305
+FS76657,Unknow,Unknow,College,0,53526,68,0,Personal Auto,Unknow,278
+YX89016,Unknow,Unknow,College,0,35005,295,0,Personal Auto,Luxury,1416
+PK28821,California,Unknow,College,0,24721,67,0,Personal Auto,Unknow,139
+MB51200,Washington,Unknow,College,0,0,102,2,Personal Auto,Unknow,734
+XG44587,Unknow,Unknow,Master,0,88997,72,0,Personal Auto,Unknow,174
+FG91922,Unknow,Unknow,Master,0,48587,111,0,Personal Auto,Unknow,532
+OM99303,Unknow,Unknow,High School or Below,0,76310,67,0,Personal Auto,Unknow,321
+RV67546,California,Unknow,Bachelor,0,73205,92,0,Personal Auto,Unknow,37
+UJ79253,Unknow,Unknow,College,0,51056,78,0,Personal Auto,Unknow,95
+PN98247,California,Unknow,College,0,58414,210,2,Personal Auto,Luxury,1008
+IB67546,California,Unknow,Bachelor,0,23940,107,0,Personal Auto,Unknow,513
+OE19087,California,Unknow,High School or Below,0,0,62,0,Personal Auto,Unknow,446
+CM95716,California,Unknow,Bachelor,0,44216,71,0,Personal Auto,Unknow,72
+MW62634,California,Unknow,High School or Below,0,27972,61,0,Corporate Auto,Unknow,292
+QW67581,Unknow,Unknow,High School or Below,0,0,69,0,Personal Auto,Unknow,331
+SN16059,California,Unknow,Master,0,29305,66,0,Personal Auto,Unknow,475
+OE51254,California,Unknow,College,0,53882,69,0,Personal Auto,Unknow,331
+RM42344,Unknow,Unknow,College,0,91757,69,1,Personal Auto,Unknow,331
+GB35238,California,Unknow,Bachelor,0,33906,64,0,Personal Auto,Unknow,401
+ML82674,Unknow,Unknow,Bachelor,0,68158,139,1,Personal Auto,Unknow,253
+EI85244,California,Unknow,College,0,0,134,3,Personal Auto,Unknow,643
+DE28132,Unknow,Unknow,College,0,42165,123,0,Corporate Auto,Unknow,799
+TV25678,Washington,Unknow,College,0,0,101,0,Personal Auto,Unknow,727
+TY26512,California,Unknow,Doctor,0,30817,88,0,Personal Auto,Unknow,91
+OB69153,California,Unknow,Bachelor,0,68074,65,0,Personal Auto,Unknow,27
+QZ77637,Unknow,Unknow,College,0,84978,35353,1,Corporate Auto,Unknow,166
+XN41715,California,Unknow,Master,0,71135,92,1,Personal Auto,Unknow,270
+QR15857,California,Unknow,College,0,0,61,0,Personal Auto,Unknow,292
+FL69363,Unknow,Unknow,Master,0,37722,116,0,Personal Auto,Luxury,158
+IS30295,Unknow,Unknow,Bachelor,0,0,139,0,Personal Auto,Unknow,667
+WA25797,Unknow,M,High School or Below,0,95697,107,0,Personal Auto,Luxury,178
+NL59519,California,Unknow,College,0,64642,96,0,Personal Auto,Unknow,404
+ZU93025,Unknow,Unknow,College,0,50071,71,0,Personal Auto,Unknow,18
+DK94262,Unknow,Unknow,High School or Below,0,46754,106,1,Personal Auto,Unknow,513
+UQ30615,California,Unknow,College,0,64801,64,0,Corporate Auto,Unknow,268
+OR40060,Unknow,Unknow,Bachelor,0,70410,83,0,Personal Auto,Unknow,131
+DK32872,Unknow,Unknow,High School or Below,0,66957,131,1,Personal Auto,Unknow,628
+FA46418,Unknow,Unknow,High School or Below,0,24213,78,1,Personal Auto,Unknow,374
+ER19995,Unknow,Unknow,College,0,99790,6464,0,Personal Auto,Unknow,178
+KI75855,Unknow,Unknow,Master,0,79751,63,0,Personal Auto,Unknow,392
+ND41876,Unknow,Unknow,High School or Below,0,86122,182,1,Personal Auto,Luxury,873
+PN21042,Unknow,Unknow,Bachelor,0,82297,116,0,Personal Auto,Luxury,0
+GJ43254,Unknow,Unknow,College,0,89057,98,0,Corporate Auto,Unknow,187
+AL46984,California,Unknow,High School or Below,0,43259,73,0,Personal Auto,Unknow,350
+JP58047,Unknow,Unknow,College,0,0,79,0,Personal Auto,Unknow,379
+ZE85014,California,Unknow,College,0,25064,62,0,Personal Auto,Unknow,297
+KU88219,Unknow,Unknow,Master,0,25816,119,0,Personal Auto,Luxury,571
+UU98729,California,Unknow,Bachelor,0,0,73,0,Personal Auto,Unknow,350
+WS82822,Unknow,Unknow,College,0,41662,69,0,Corporate Auto,Unknow,217
+YB49933,Unknow,Unknow,Bachelor,0,96170,92,0,Personal Auto,Unknow,441
+XC16387,Unknow,Unknow,High School or Below,0,46072,64,0,Personal Auto,Unknow,25
+XJ96748,Unknow,Unknow,High School or Below,0,37931,99,0,Personal Auto,Unknow,475
+TM98684,Unknow,Unknow,High School or Below,0,35127,62,0,Personal Auto,Unknow,297
+AY18433,Unknow,Unknow,High School or Below,0,45473,76,0,Special Auto,Unknow,188
+DM74502,Unknow,Unknow,College,0,93087,131,3,Corporate Auto,Luxury,628
+FT56968,Unknow,Unknow,High School or Below,0,22398,67,2,Personal Auto,Unknow,321
+OX36896,California,Unknow,High School or Below,0,92983,87,1,Corporate Auto,Unknow,153
+BZ65376,Unknow,Unknow,Bachelor,0,27689,239,2,Personal Auto,Luxury,2893
+LN34660,California,Unknow,College,0,69654,118,0,Corporate Auto,Unknow,629
+JC29295,California,Unknow,Bachelor,0,80744,111,0,Personal Auto,Unknow,361
+KJ87930,California,Unknow,Bachelor,0,0,112,0,Corporate Auto,Unknow,1185
+XT36360,Unknow,Unknow,High School or Below,0,0,64,1,Personal Auto,Unknow,460
+IX35050,Unknow,Unknow,Bachelor,0,76358,66,0,Special Auto,Unknow,86
+UN97379,Unknow,Unknow,Bachelor,0,18608,71,0,Corporate Auto,Unknow,340
+MR57294,California,Unknow,High School or Below,0,73168,70,0,Personal Auto,Unknow,425
+UG79499,Unknow,Unknow,Bachelor,0,70930,99,0,Personal Auto,Unknow,190
+UA50747,Unknow,Unknow,High School or Below,0,62262,72,0,Corporate Auto,Unknow,193
+GL20444,Unknow,Unknow,Master,0,91474,113,0,Corporate Auto,Unknow,24
+SP58110,California,Unknow,Bachelor,0,61469,63,5,Personal Auto,Unknow,302
+XM91635,Unknow,Unknow,High School or Below,0,16618,62,0,Special Auto,Unknow,219
+TV82603,California,Unknow,Bachelor,0,48081,188,0,Personal Auto,Luxury,881
+BB82067,Unknow,Unknow,Doctor,0,67632,121,0,Personal Auto,Luxury,26
+JP94676,Unknow,Unknow,Bachelor,0,34115,119,0,Personal Auto,Unknow,466
+VU53417,Unknow,Unknow,High School or Below,0,23051,99,0,Personal Auto,Unknow,475
+IW54795,California,Unknow,College,0,23748,99,0,Personal Auto,Unknow,607
+RN78170,Unknow,Unknow,College,0,40589,69,0,Corporate Auto,Unknow,331
+IX55883,California,Unknow,College,0,50809,83,0,Personal Auto,Unknow,290
+XM72420,Unknow,Unknow,High School or Below,0,66676,97,0,Personal Auto,Unknow,558
+GC15104,Unknow,Unknow,Bachelor,0,52339,70,3,Corporate Auto,Unknow,336
+RX13282,Unknow,Unknow,Bachelor,0,14973,115,0,Personal Auto,Unknow,828
+QA85890,Unknow,Unknow,High School or Below,0,0,83,0,Corporate Auto,Unknow,540
+IR62668,Unknow,Unknow,Bachelor,0,31546,65,0,Personal Auto,Unknow,100
+AL96740,California,Unknow,College,0,67763,73,1,Personal Auto,Unknow,59
+SS48498,Unknow,Unknow,College,0,20836,79,0,Corporate Auto,Unknow,193
+PE39479,Unknow,Unknow,College,0,88592,76,0,Corporate Auto,Unknow,199
+JH62891,Unknow,Unknow,College,0,66943,65,1,Special Auto,Unknow,53
+FI20423,Unknow,Unknow,High School or Below,0,81872,115,0,Special Auto,Unknow,256
+PM13394,Unknow,Unknow,College,0,22404,70,1,Personal Auto,Unknow,211
+YV67971,California,Unknow,High School or Below,0,21342,62,0,Personal Auto,Unknow,74
+QD31377,California,Unknow,Bachelor,0,34621,108,1,Corporate Auto,Unknow,621
+YG10247,Unknow,Unknow,College,0,62396,64,0,Personal Auto,Unknow,307
+FE73696,Unknow,Unknow,High School or Below,0,97212,93,0,Personal Auto,Unknow,360
+SW19699,Unknow,Unknow,Bachelor,0,49648,70,0,Personal Auto,Unknow,65
+QJ40732,Unknow,Unknow,College,0,97984,61,1,Personal Auto,Unknow,407
+HM76207,California,Unknow,College,0,26308,114,0,Corporate Auto,Unknow,547
+NT59303,Unknow,Unknow,College,0,63528,256,0,Personal Auto,Luxury,1228
+PU41393,Unknow,Unknow,College,0,20225,114,1,Special Auto,Unknow,547
+QO86948,Unknow,Unknow,High School or Below,0,0,112,0,Personal Auto,Unknow,806
+QN10888,Unknow,Unknow,High School or Below,0,87620,64,0,Personal Auto,Unknow,24
+VY19543,California,Unknow,Bachelor,0,0,72,0,Corporate Auto,Unknow,311
+XC15133,Unknow,Unknow,Master,0,34990,65,0,Personal Auto,Unknow,42
+ST43550,Unknow,Unknow,Bachelor,0,99934,71,0,Special Auto,Unknow,460
+FX36546,Unknow,Unknow,Master,0,60804,92,0,Personal Auto,Unknow,213
+JX68983,Unknow,Unknow,Bachelor,0,94648,69,0,Personal Auto,Unknow,331
+HX78576,California,Unknow,High School or Below,0,24516,71,0,Personal Auto,Unknow,300
+ZQ11381,Unknow,Unknow,Bachelor,0,61063,85,0,Personal Auto,Unknow,262
+ON39271,California,Unknow,Master,0,0,74,0,Personal Auto,Unknow,263
+SB18278,Unknow,Unknow,Bachelor,0,0,64,0,Corporate Auto,Unknow,307
+ZT30559,California,Unknow,High School or Below,0,15169,63,0,Personal Auto,Unknow,302
+XI41106,Unknow,Unknow,College,0,55390,71,0,Corporate Auto,Unknow,256
+ZS88847,Unknow,Unknow,Bachelor,0,27592,62,0,Personal Auto,Unknow,297
+RU49126,Unknow,Unknow,College,0,61846,112,0,Personal Auto,Unknow,215
+KR62797,Unknow,Unknow,High School or Below,0,83297,113,0,Personal Auto,Unknow,542
+ZJ73220,Unknow,Unknow,College,0,0,188,0,Special Auto,Luxury,1353
+FY62633,Unknow,Unknow,Bachelor,0,0,90,0,Personal Auto,Unknow,432
+CU36986,California,Unknow,High School or Below,0,55897,104,0,Personal Auto,Unknow,499
+WZ53904,Unknow,Unknow,Bachelor,0,21297,71,0,Personal Auto,Unknow,45
+AA71604,Unknow,Unknow,Master,0,87560,98,1,Personal Auto,Unknow,470
+TD10493,Unknow,Unknow,High School or Below,0,0,96,4,Personal Auto,Unknow,691
+LY97989,Unknow,Unknow,Bachelor,0,0,85,0,Personal Auto,Unknow,408
+VX39856,Unknow,Unknow,Doctor,0,89398,86,0,Personal Auto,Unknow,82
+TP51897,California,Unknow,College,0,36843,68,3,Corporate Auto,Unknow,357
+QQ89253,Unknow,Unknow,College,0,0,134,0,Personal Auto,Unknow,643
+EI91403,California,Unknow,High School or Below,0,34946,65,0,Personal Auto,Unknow,420
+QG15435,Unknow,Unknow,College,0,75680,78,0,Personal Auto,Unknow,136
+FZ55002,Unknow,Unknow,Doctor,0,0,69,0,Personal Auto,Unknow,331
+HX77930,Unknow,Unknow,College,0,49532,79,1,Personal Auto,Unknow,220
+UN37063,Unknow,Unknow,Bachelor,0,10269,65,0,Personal Auto,Unknow,170
+VB87946,California,Unknow,College,0,49714,63,3,Personal Auto,Unknow,266
+AB60627,California,Unknow,High School or Below,0,77517,129,0,Corporate Auto,Unknow,98
+TA34903,Unknow,Unknow,High School or Below,0,81082,73,0,Personal Auto,Unknow,281
+AQ51368,Unknow,Unknow,Bachelor,0,72540,88,0,Corporate Auto,Unknow,631
+NZ26102,Unknow,Unknow,High School or Below,0,0,65,0,Personal Auto,Unknow,468
+GB45753,California,Unknow,High School or Below,0,61546,68,0,Corporate Auto,Unknow,29
+BV79904,California,Unknow,Master,0,44818,67,1,Personal Auto,Unknow,136
+OB49075,Unknow,Unknow,Bachelor,0,17622,65,1,Personal Auto,Unknow,312
+DS97676,Unknow,Unknow,College,0,0,72,0,Personal Auto,Unknow,518
+JO63462,California,Unknow,Bachelor,0,79797,84,0,Corporate Auto,Unknow,31
+NJ10602,Unknow,Unknow,College,0,92717,70,0,Personal Auto,Unknow,224
+RS24501,Unknow,Unknow,College,0,28919,173,0,Personal Auto,Unknow,830
+VT78274,Unknow,Unknow,College,0,0,68,0,Personal Auto,Unknow,480
+SU56153,Unknow,Unknow,Bachelor,0,63568,65,0,Corporate Auto,Unknow,390
+MN20737,Unknow,Unknow,College,0,73935,64,1,Corporate Auto,Unknow,72
+KL43114,Unknow,Unknow,High School or Below,0,0,66,0,Corporate Auto,Unknow,316
+YQ15567,Unknow,Unknow,Bachelor,0,18846,115,0,Personal Auto,Unknow,552
+TR88637,Unknow,Unknow,High School or Below,0,38893,103,0,Personal Auto,Unknow,41
+TC88986,Unknow,Unknow,High School or Below,0,0,153,0,Special Auto,Unknow,1027
+XX88577,California,Unknow,Bachelor,0,84824,196,0,Corporate Auto,Unknow,319
+NE49052,California,Unknow,High School or Below,0,20068,86,0,Corporate Auto,Unknow,411
+KX17826,Unknow,Unknow,Doctor,0,0,125,0,Corporate Auto,Unknow,600
+CC91503,Unknow,Unknow,High School or Below,0,0,135,0,Personal Auto,Luxury,648
+WH32183,California,Unknow,Bachelor,0,97245,70,0,Personal Auto,Unknow,4
+ES90681,California,Unknow,College,0,51808,61,1,Personal Auto,Unknow,351
+DW96592,California,Unknow,Bachelor,0,71391,67,0,Personal Auto,Unknow,284
+MT23134,Unknow,Unknow,High School or Below,0,0,73,0,Personal Auto,Unknow,496
+BM69081,Unknow,Unknow,Bachelor,0,0,100,0,Personal Auto,Unknow,925
+MB90871,Unknow,Unknow,College,0,23496,77,0,Special Auto,Unknow,13
+GT62080,Unknow,Unknow,High School or Below,0,55561,63,0,Personal Auto,Unknow,227
+QL77686,Unknow,Unknow,College,0,23986,119,0,Corporate Auto,Unknow,463
+ON77827,Unknow,Unknow,Master,0,22974,71,0,Personal Auto,Unknow,180
+KP18988,Unknow,Unknow,High School or Below,0,0,101,0,Personal Auto,Unknow,484
+TI92884,Unknow,Unknow,Bachelor,0,61844,106,0,Personal Auto,Luxury,508
+JH73503,Unknow,Unknow,Doctor,0,24804,73,0,Personal Auto,Unknow,350
+YE97964,California,Unknow,Bachelor,0,27760,104,0,Personal Auto,Unknow,302
+VA30351,Unknow,Unknow,High School or Below,0,74454,71,0,Personal Auto,Unknow,340
+PV55726,Unknow,Unknow,Master,0,29462,107,1,Personal Auto,Unknow,513
+UC88305,Unknow,Unknow,College,0,52266,68,0,Corporate Auto,Unknow,141
+TS53809,Unknow,Unknow,Bachelor,0,0,70,0,Personal Auto,Unknow,349
+ZV32120,California,Unknow,Doctor,0,23599,103,0,Corporate Auto,Unknow,494
+FB80807,Unknow,Unknow,Bachelor,0,36088,72,0,Personal Auto,Unknow,345
+AS55677,California,Unknow,High School or Below,0,70534,104,0,Personal Auto,Unknow,54
+WA15684,Unknow,Unknow,College,0,27398,125,1,Personal Auto,Unknow,600
+SA50567,Unknow,Unknow,Bachelor,0,85296,68,0,Personal Auto,Unknow,342
+KJ31611,Unknow,Unknow,High School or Below,0,31063,92,0,Personal Auto,Unknow,441
+VL37375,California,Unknow,Bachelor,0,0,92,0,Personal Auto,Unknow,1027
+KN21017,Unknow,Unknow,High School or Below,0,52367,81,0,Personal Auto,Unknow,275
+PX44289,Unknow,Unknow,College,0,58651,71,0,Personal Auto,Unknow,472
+AM97901,Unknow,Unknow,College,0,84831,192,0,Special Auto,Luxury,1336
+RE42925,Unknow,Unknow,Bachelor,0,49088,114,1,Corporate Auto,Unknow,547
+TR81766,California,Unknow,College,0,70263,93,0,Corporate Auto,Unknow,7
+CH85057,Unknow,Unknow,Doctor,0,45354,285,0,Personal Auto,Luxury,540
+UP71482,Unknow,Unknow,High School or Below,0,0,63,0,Personal Auto,Unknow,383
+EG40670,California,Unknow,Bachelor,0,28334,83,0,Special Auto,Unknow,537
+HV83672,Unknow,Unknow,Bachelor,0,38772,90,0,Personal Auto,Unknow,321
+MG10140,Unknow,Unknow,College,0,41479,94,1,Personal Auto,Unknow,19
+TC44716,California,Unknow,Bachelor,0,23909,119,0,Personal Auto,Unknow,571
+QO65264,California,Unknow,College,0,48328,63,0,Personal Auto,Unknow,108
+EB66698,California,Unknow,High School or Below,0,86689,85,0,Corporate Auto,Unknow,408
+OT52034,California,Unknow,Bachelor,0,24204,99,1,Personal Auto,Unknow,707
+CH85444,Unknow,Unknow,College,0,25943,110,0,Corporate Auto,Unknow,1067
+PU85769,California,Unknow,High School or Below,0,0,73,0,Personal Auto,Unknow,807
+UI73201,California,Unknow,College,0,62375,92,0,Personal Auto,Unknow,618
+SL50592,California,Unknow,High School or Below,0,0,71,0,Corporate Auto,Unknow,404
+XP11075,Unknow,Unknow,Bachelor,0,0,148,0,Personal Auto,Unknow,710
+SI31236,Unknow,Unknow,Bachelor,0,70200,65,0,Corporate Auto,Unknow,312
+JN26745,Unknow,Unknow,Bachelor,0,0,112,0,Special Auto,Unknow,707
+VK48036,Unknow,Unknow,College,0,79027,70,0,Corporate Auto,Unknow,336
+JX76668,Unknow,Unknow,High School or Below,0,62935,141,0,Personal Auto,Luxury,232
+DS45802,California,Unknow,High School or Below,0,26893,68,0,Personal Auto,Unknow,68
+OA96690,Unknow,Unknow,High School or Below,0,47406,94,1,Personal Auto,Unknow,287
+EM27919,California,Unknow,Bachelor,0,17622,65,1,Personal Auto,Unknow,312
+QO41043,Unknow,Unknow,College,0,27572,124,0,Corporate Auto,Unknow,595
+OV50124,Unknow,Unknow,College,0,0,72,2,Personal Auto,Unknow,391
+PR31642,Unknow,Unknow,Bachelor,0,32802,114,0,Personal Auto,Unknow,547
+BU41599,Unknow,Unknow,Master,0,62739,70,0,Personal Auto,Unknow,239
+TK30357,California,Unknow,Bachelor,0,90844,118,0,Personal Auto,Unknow,232
+NF31087,Unknow,Unknow,High School or Below,0,44685,69,0,Personal Auto,Unknow,331
+NH16984,California,Unknow,Bachelor,0,0,80,0,Personal Auto,Unknow,336
+OS75493,California,Unknow,High School or Below,0,42589,98,0,Corporate Auto,Unknow,470
+VT63298,Unknow,Unknow,Bachelor,0,0,72,0,Personal Auto,Unknow,345
+QS75550,Unknow,Unknow,Bachelor,0,93383,62,0,Corporate Auto,Unknow,244
+SZ16483,Unknow,Unknow,High School or Below,0,79583,109,2,Personal Auto,Unknow,523
+VM92311,Unknow,Unknow,High School or Below,0,89129,64,0,Personal Auto,Unknow,328
+NJ46849,Unknow,Unknow,College,0,0,69,0,Personal Auto,Unknow,496
+WZ31900,Unknow,Unknow,Bachelor,0,94389,107,0,Corporate Auto,Unknow,85
+RG30482,Unknow,Unknow,College,0,0,197,0,Personal Auto,Unknow,1418
+ZM86949,Unknow,Unknow,High School or Below,0,84106,64,0,Personal Auto,Unknow,334
+QQ39596,Unknow,Unknow,College,0,0,69,0,Personal Auto,Unknow,42
+FH51383,California,Unknow,High School or Below,0,76717,66,0,Personal Auto,Unknow,300
+BJ53923,Unknow,Unknow,High School or Below,0,51978,66,0,Corporate Auto,Unknow,144
+CZ96653,Unknow,Unknow,Bachelor,0,47325,107,0,Personal Auto,Unknow,64
+FB23788,Unknow,Unknow,High School or Below,0,86721,111,0,Corporate Auto,Unknow,532
+NT43594,Unknow,Unknow,Bachelor,0,24910,63,1,Personal Auto,Unknow,347
+RJ85627,Unknow,Unknow,Bachelor,0,43817,62,1,Personal Auto,Unknow,245
+KJ86296,Unknow,Unknow,High School or Below,0,0,73,2,Personal Auto,Unknow,525
+PI47776,Unknow,Unknow,Bachelor,0,89451,63,0,Corporate Auto,Unknow,61
+MD73554,California,Unknow,College,0,59537,66,0,Personal Auto,Unknow,316
+UX92071,Unknow,Unknow,High School or Below,0,0,199,0,Personal Auto,Luxury,955
+YG44474,Unknow,Unknow,College,0,54193,117,0,Corporate Auto,Unknow,720
+UH45301,Unknow,Unknow,College,0,86946,118,0,Personal Auto,Unknow,340
+RY92647,California,Unknow,Bachelor,0,0,92,0,Personal Auto,Unknow,546
+IK12620,Unknow,Unknow,High School or Below,0,12160,109,0,Personal Auto,Unknow,489
+GQ66762,California,Unknow,College,0,33701,63,0,Personal Auto,Unknow,171
+YT69858,Unknow,Unknow,Bachelor,0,85702,67,0,Personal Auto,Unknow,249
+XD85577,California,Unknow,Bachelor,0,69417,73,1,Personal Auto,Unknow,30
+TM65736,Unknow,Unknow,Master,0,38644,78,1,Personal Auto,Unknow,361
+VJ51327,California,Unknow,High School or Below,0,63209,102,2,Personal Auto,Unknow,207
+GS98873,Unknow,Unknow,Bachelor,0,16061,88,0,Personal Auto,Unknow,633
+CW49887,Unknow,Unknow,Master,0,79487,114,0,Special Auto,Unknow,547
+MY31220,Unknow,Unknow,College,0,54230,112,0,Personal Auto,Unknow,537
