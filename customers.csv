@@ -1,0 +1,8 @@
+,customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
+21,QK46697,Washington,No_gender,Bachelor,617710.93,61040.0,79.0,1,Personal Auto,Two-Door Car,20.382876
+137,LH92841,Washington,No_gender,Bachelor,725595.38,88891.0,89.0,0,Personal Auto,Four-Door Car,50.528355
+430,MT41386,Washington,No_gender,Bachelor,287543.24,84768.0,72.0,0,Personal Auto,Two-Door Car,110.484661
+608,TL43709,Washington,No_gender,Bachelor,897214.03,89689.0,74.0,0,Personal Auto,Four-Door Car,136.829537
+644,UO86707,Washington,No_gender,Bachelor,717390.94,75217.0,61.0,1,Personal Auto,Four-Door Car,147.080303
+741,AC40767,Washington,No_gender,Bachelor,249780.82,68041.0,6464.0,0,Personal Auto,Two-Door Car,165.570243
+1041,QS75550,Washington,No_gender,Bachelor,248004.59,93383.0,62.0,0,Corporate Auto,Two-Door Car,244.212286
