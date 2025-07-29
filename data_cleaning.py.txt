@@ -1,0 +1,24 @@
+import pandas as pd
+
+def clean_data(filepath):
+    df = pd.read_csv(filepath)
+
+    df.drop_duplicates(inplace=True)
+    df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
+    df.fillna('Unknown', inplace=True)
+
+    if 'date' in df.columns:
+        df['date'] = pd.to_datetime(df['date'], errors='coerce')
+
+    for col in df.select_dtypes(include='object'):
+        df[col] = df[col].str.replace(r'[^\w\s]', '', regex=True)
+        df[col] = df[col].str.strip()
+
+    return df
+
+from data_cleaning import clean_data
+
+df_cleaned = clean_data('file1.csv')
+df_cleaned.head()
+
+df_cleaned = clean_data("https://raw.githubusercontent.com/data-bootcamp-v4/data/main/file1.csv")
