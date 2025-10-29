@@ -1,0 +1,84 @@
+# .gitignore for a Python / Jupyter data lab
+# Adjust the sections below to match what you do/don't want to commit (e.g. small example data files).
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# ----- Virtual environments -----
+# Common names for virtual envs
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# ----- Jupyter / IPython -----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+# If you want to ignore outputs produced by nbconvert
+*.nbconvert.ipynb
+
+# ----- Cache / tooling -----
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# ----- Editors / IDEs -----
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----- OS files -----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----- Logs and databases -----
+*.log
+*.sqlite3
+*.db
+
+# ----- Secrets / credentials -----
+.env
+.env.*
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# ----- Large data, outputs, models (optional) -----
+# Uncomment if you keep raw/processed data, model weights or large outputs in these folders
+data/
+data_raw/
+data_processed/
+outputs/
+models/
+# Common large binary/tabular formats
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.csv
+*.tsv
+
+# If you want to keep small example datasets inside the repo, remove or narrow the patterns above.
+
+# ----- OneDrive / temporary files -----
+~$*
+
+# End of .gitignore
