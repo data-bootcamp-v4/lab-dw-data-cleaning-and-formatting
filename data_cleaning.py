@@ -48,7 +48,7 @@ def clean_vehicle_class(df: pd.DataFrame) -> pd.DataFrame:
 
 def clean_customer_lifetime_value(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
-    df["customer_lifetime_value"] = (df["customer_lifetime_value"].astype(str).str.replace("%", "", regex=False)    )
+    df["customer_lifetime_value"] = (df["customer_lifetime_value"].astype(str).str.replace("%", "", regex=False)/100)
     df["customer_lifetime_value"] = pd.to_numeric(df["customer_lifetime_value"], errors="coerce")
     return df
 
